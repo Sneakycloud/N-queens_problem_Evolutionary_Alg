@@ -41,16 +41,14 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
     #Check if goal is met with initial population
 
     #Generational loop
-    #while not solution_Found:        
-        #Recombine
-        
-        #Mutate
-
-        #Rank
-        
+    #while not solution_Found:
+        #evalutate fittness function and test  
         #Select next generation / Check if goal is met
-    
-
+        generation = select(generation)
+        #Recombine
+        generation = recombine(generation, amount_children) 
+        #Mutate
+        generation = mutate(generation)
 
     #printing for testing purposes
     print_board(generation[0])
@@ -60,4 +58,4 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
     return solution
     
     
-solution = n_queen_solver(4, 100,100,0)
+solution = n_queen_solver(15, 100,100,0)
