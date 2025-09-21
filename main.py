@@ -1,16 +1,5 @@
 import random
-
-#Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in
-def population_initliziser_random(n):
-    #List of available positions
-    Available_coloumn_positions = [x for x in range(0,n)]
-    resulting_configuration = []
-
-    #randomly picks a available position to place a queen
-    while len(Available_coloumn_positions) > 0:
-        resulting_configuration.append(Available_coloumn_positions.pop(random.randint(0,len(Available_coloumn_positions)-1)))
-
-    return resulting_configuration
+from pop_init import population_initliziser_random, population_initliziser_heuristic
 
 #converts the ordered representation into a 2D printed board
 def print_board(board):
@@ -37,6 +26,10 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
     generation = []
     if population_init_algorithm == 0:
         generation = [population_initliziser_random(n) for x in range(gen_size)]
+    elif population_init_algorithm == 1:
+        generation = [population_initliziser_heuristic(n) for x in range(gen_size)]
+    else:
+        raise ValueError("The n-queens_solver function has recived invalid population init algorithm number as argument")
 
     #Check if goal is met with initial population
 
