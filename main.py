@@ -50,9 +50,9 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
     #while not solution_Found:
         #evalutate fittness function and test  
         #Select next generation / Check if goal is met
-        print("BEFORE | size:", len(generation))
-        generation = tournament_select(generation, tournament_size=3)
-        print("AFTER  | size:", len(generation), "(expected ≈", max(2, len(generation) // 2), ")")
+    print("BEFORE | size:", len(generation))
+    generation = tournament_select(generation, tournament_size=3)
+    print("AFTER  | size:", len(generation), "(expected ≈", max(2, len(generation) // 2), ")")
 
         #Recombine
         #generation = recombine(generation, amount_children) 
