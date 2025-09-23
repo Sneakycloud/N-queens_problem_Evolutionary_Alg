@@ -1,6 +1,7 @@
 import random
 from pop_init import population_initliziser_random, population_initliziser_heuristic
 from ga_select import fitness, select, tournament_select
+from mutation import mutate
 
 #Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in
 def population_initliziser_random(n):
@@ -56,12 +57,17 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
 
         #Recombine
         #generation = recombine(generation, amount_children) 
-        #Mutate
-        #generation = mutate(generation)
-
+        
     #printing for testing purposes
     print_board(generation[0])
     print(fitness(generation[0]))
+
+    #Printing and testing mutation function
+    print_board(generation[0])
+    generation = mutate(generation)
+    print("After mutation:")
+    print_board(generation[0])
+
 
     #Returns configuration that solves problem
     return solution
