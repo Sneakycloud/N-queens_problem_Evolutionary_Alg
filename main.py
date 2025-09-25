@@ -20,9 +20,9 @@ def print_board(board):
     for x in range(0,len(board)):
         for y in range(0,len(board)):
             if(board[x] != y):
-                print("O", end="")
+                print("- ", end="")
             else:
-                print("X", end="")
+                print("o ", end="")
         print("")
 
 
