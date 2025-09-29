@@ -2,9 +2,11 @@ import random
 from pop_init import population_initliziser_random, population_initliziser_heuristic
 from ga_select import fitness, select, tournament_select
 from mutation import mutate
+from recombine import recombine
 
-#Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in
+
 def population_initliziser_random(n):
+    """"""
     #List of available positions
     Available_coloumn_positions = [x for x in range(0,n)]
     resulting_configuration = []
@@ -15,8 +17,8 @@ def population_initliziser_random(n):
 
     return resulting_configuration
 
-#converts the ordered representation into a 2D printed board
 def print_board(board):
+    """Converts the ordered representation into a 2D printed board"""
     for x in range(0,len(board)):
         for y in range(0,len(board)):
             if(board[x] != y):
@@ -25,11 +27,12 @@ def print_board(board):
                 print("o ", end="")
         print("")
 
-
-
-#Inputs: the size n of the board, generation size, amount of children and a number corresponding to which population initlization algorithm to use
-#Output: a solution to the n-queens problem
 def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
+    """
+        Inputs: the size n of the board, generation size, amount of children and ¨
+            a number corresponding to which population initlization algorithm to use. 
+        Output: a solution to the n-queens problem
+    """
     solution_Found = False
 
     #consider if solution and rank should be combined into a tuple?
@@ -51,26 +54,17 @@ def n_queen_solver(n,gen_size,amount_children,population_init_algorithm):
     #while not solution_Found:
         #evalutate fittness function and test  
         #Select next generation / Check if goal is met
-    print("BEFORE | size:", len(generation))
     generation = tournament_select(generation, tournament_size=3)
-    print("AFTER  | size:", len(generation), "(expected ≈", max(2, len(generation) // 2), ")")
 
-        #Recombine
-        #generation = recombine(generation, amount_children) 
-        
-    #printing for testing purposes
-    print_board(generation[0])
-    print(fitness(generation[0]))
+    #Recombine
+    generation = recombine(generation, n)
 
     #Printing and testing mutation function
-    print_board(generation[0])
     generation = mutate(generation)
-    print("After mutation:")
-    print_board(generation[0])
 
 
     #Returns configuration that solves problem
     return solution
     
     
-solution = n_queen_solver(4, 100,100,0)
+solution = n_queen_solver(8, 100, 100, 0)
