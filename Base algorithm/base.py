@@ -196,7 +196,7 @@ Mutation rate:                    40
 Number of iterations:             50
 Generations summary:
 Least generations taken:        166
-Most generations taken:         2000
+Most generations taken:         2000 #this is the maximum allowed, which means a run has failed
 Average number of generations:  620.28
 Median of list:                 593.0
 Time for whole algorithm summary:
