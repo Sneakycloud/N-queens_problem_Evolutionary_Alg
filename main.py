@@ -96,6 +96,10 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     solutions_found = []
     generations_taken = []
     time_taken = []
+    exceeded_max_generation_count = 0
+    exceeded_stall_limit_count = 0
+    success_counter = 0
+    
     for i in range(itererations):
         start_time = time.process_time()
         solution_found = (n_queen_solver(board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, pop_init_algorithm))
@@ -107,19 +111,39 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
                 generations_taken.append(solution_found[1])
                 time_taken.append(end_time - start_time)
                 print(f"Iteration: {i} - success")
+                success_counter += 1
             else:
-                print(f"Iteration: {i} - failed to find")
+                if(solution_found[1] >= max_generations and solution_found[2] >= stall_limit):
+                    print(f"Iteration: {i} - Stopped search due to exceeding both max generations and stall limit")
+                    exceeded_max_generation_count += 1
+                    exceeded_stall_limit_count += 1
+                elif(solution_found[1] >= max_generations):
+                    print(f"Iteration: {i} - Stopped search due to exceeding max generations")
+                    exceeded_max_generation_count += 1
+                else:
+                    print(f"Iteration: {i} - Stopped search due to fitness function not improving for {stall_limit} generations")
+                    exceeded_stall_limit_count += 1
         else:
             #only add solution candidate if it actually contains a solution
             if len(solution_found[0]) > 0:
                 solutions_found.append(solution_found[0])
                 
-            generations_taken.append(solution_found[1] and solution_found[2] < stall_limit)
+            generations_taken.append(solution_found[1])
             time_taken.append(end_time - start_time)
-            if(solution_found[1] < max_generations):
+            if(solution_found[1] < max_generations and solution_found[2] < stall_limit):
                 print(f"Iteration: {i} - success")
+                success_counter += 1
             else:
-                print(f"Iteration: {i} - failed to find")
+                if(solution_found[1] >= max_generations and solution_found[2] >= stall_limit):
+                    print(f"Iteration: {i} - Stopped search due to exceeding both max generations and stall limit")
+                    exceeded_max_generation_count += 1
+                    exceeded_stall_limit_count += 1
+                elif(solution_found[1] >= max_generations):
+                    print(f"Iteration: {i} - Stopped search due to exceeding max generations")
+                    exceeded_max_generation_count += 1
+                else:
+                    print(f"Iteration: {i} - Stopped search due to fitness function not improving for {stall_limit} generations")
+                    exceeded_stall_limit_count += 1
         
     if len(solution_found[0]) > 0:
         print_board(solution_found[0])
@@ -131,13 +155,16 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     print(f"Number of iterations:             {itererations}")
     print(f"Pop initilization algorithm:      {pop_init_algorithm}")
     print(f"Max generations:                  {max_generations}")
-    print(f"Max stall:                        {stall_limit}")
+    print(f"Times max generation was reached: {exceeded_max_generation_count}")
+    print(f"Stall limit:                      {stall_limit}")
+    print(f"Times stall limit was exceeded:   {exceeded_stall_limit_count}")
+    print(f"Succeded {success_counter} / {itererations} times\n")
 
     print("Generations summary:")
     print(f"Least generations taken:\t{min(generations_taken)}")
     print(f"Most generations taken: \t{max(generations_taken)}")
     print(f"Average number of generations:\t{sum(generations_taken) / len(generations_taken)}")
-    print(f"Median of list: \t\t{statistics.median(generations_taken)}")
+    print(f"Median of list: \t\t{statistics.median(generations_taken)}\n")
 
     print("Time for whole algorithm summary:")
     print(f"Least time taken:             {min(time_taken)}")
@@ -146,9 +173,9 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     print(f"Median time taken:            {statistics.median(time_taken)}")
     
     if len(solutions_found) > 0:
-        return solutions_found[0]
+        return (solutions_found, generations_taken, time_taken)
     else:
-        return
+        return ([], generations_taken, time_taken)
 
 itererations = 50
 board_size_n = 50
@@ -162,4 +189,3 @@ pop_init_algorithm = 1
     
 #solution = n_queen_solver(4, 100, 100, 0)
 solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
-print_board(solution)

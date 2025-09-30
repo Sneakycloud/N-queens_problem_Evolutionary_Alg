@@ -1,0 +1,43 @@
+import matplotlib.pyplot as plt
+from main.py import info_n_queen_solver
+
+def n_queen_plot(itererations, board_sizes_n : list, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm):
+    #Variable init, these hold the values for each run of n
+    avg_time_taken_n = []
+    avg_generations_taken_n = []
+    
+    #Run info_n_queen solver for data gathering
+    for board_size_n in board_sizes_n:
+        _, generations_taken, time_taken = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
+        avg_generations_taken_n.append(sum(generations_taken) / len(generations_taken))
+        avg_time_taken_n.append(sum(time_taken) / len(time_taken))
+        
+    #ploting graph
+    plt.subplot(211)
+    plt.plot(board_sizes_n,avg_time_taken_n)
+    plt.xlabel("Size of n")
+    plt.ylabel("Average time (s)")
+    
+    plt.subplot(212)
+    plt.plot(board_sizes_n,avg_generations_taken_n)
+    plt.xlabel("Size of n")
+    plt.ylabel("Average generations taken")
+    
+    plt.show()
+    
+    return
+
+
+itererations = 50
+board_sizes_n = [8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+boards_per_generation = 1000
+mutation_rate = 40
+max_generations = 2000
+stall_limit = 500
+ignore_failed_attempts = False
+#0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
+pop_init_algorithm = 1 
+    
+#solution = n_queen_solver(4, 100, 100, 0)
+#solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
+n_queen_plot(itererations, board_sizes_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
