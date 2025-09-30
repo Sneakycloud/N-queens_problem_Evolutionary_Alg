@@ -59,7 +59,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
     while generation_num < max_generations:
     
         #Select next generation / Check if goal is met
-        generation = tournament_select([t[0] for t in scored], 3, gen_size)
+        generation = tournament_select(scored, 3, gen_size)
         #Recombine
         generation.extend(recombine(generation))
         #Printing and testing mutation function
