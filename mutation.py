@@ -1,9 +1,7 @@
 import random
 
 # Mutates the generation by swapping two random positions
-def mutate(generation):
-    # Probability of mutation
-    mutation_rate = 5
+def mutate(generation, mutation_rate):
     # Loop through each individual in the generation
     for i in range(len(generation)):
         # Decide whether to mutate this individual

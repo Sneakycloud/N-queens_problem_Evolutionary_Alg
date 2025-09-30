@@ -24,14 +24,14 @@ def tournament_select(generation, tournament_size=3, parents_count=None):
     if parents_count is None:
         parents_count = max(len(generation)//2,2)
 
-        parents = []
-        for _ in range(parents_count):
-            # Pick random candidates (no repeats within the tournament)
-            candidates = random.sample(generation, min(tournament_size, len(generation)))
-            # Winner = lowest fitness
-            winner = min(candidates, key=fitness)
-            parents.append(winner)
-        return parents
+    parents = []
+    for _ in range(parents_count):
+        # Pick random candidates (no repeats within the tournament)
+        candidates = random.sample(generation, min(tournament_size, len(generation)))
+        # Winner = lowest fitness
+        winner = min(candidates, key=fitness)
+        parents.append(winner)
+    return parents
     
 
 

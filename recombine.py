@@ -1,8 +1,9 @@
 import random
 
-def recombine(gen, size):
+def recombine(gen):
     """Devide and recombine boards"""
     gen2 = []
+    size = len(gen[0])
     r = random.randint(0, size - 1)
 
     # Combine with next board
