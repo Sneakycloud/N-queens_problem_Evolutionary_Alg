@@ -105,6 +105,7 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
         solution_found = (n_queen_solver(board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, pop_init_algorithm))
         end_time = time.process_time()
         
+        #If the function should include runs which failed to find a solution when gathering data about time and generations taken.
         if ignore_failed_attempts:
             if(solution_found[1] < max_generations and solution_found[2] < stall_limit):
                 solutions_found.append(solution_found[0])
@@ -178,7 +179,7 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
         return ([], generations_taken, time_taken)
 
 itererations = 50
-board_size_n = 50
+board_size_n = 20
 boards_per_generation = 1000
 mutation_rate = 40
 max_generations = 2000
@@ -187,5 +188,6 @@ ignore_failed_attempts = False
 #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
 pop_init_algorithm = 1 
     
-#solution = n_queen_solver(4, 100, 100, 0)
-solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
+if __name__ == "__main__":
+    #solution = n_queen_solver(4, 100, 100, 0)
+    solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
