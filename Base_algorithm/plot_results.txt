@@ -1,0 +1,1143 @@
+Parameters:
+    itererations = 100
+
+    #board_sizes_n = [8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+    board_sizes_n = [x for x in range(4,13)] #[8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+    #board_sizes_n.extend([35,40,45,50])
+
+    boards_per_generation = 687
+    children_per_generation = 1000
+    mutation_rate = 60
+    max_generations = 4000
+    stall_limit = 500
+    ignore_failed_attempts = True
+    #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
+    pop_init_algorithm = 1 
+    #0 makes the algorithm into the simplistic base evolutionary algorithm, while 1 makes the algorithm into the improved version
+    main_algorithm = 0
+
+Starting iterations for board size 4
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - o -
+o - - -
+- - - o
+- o - -
+General info:
+Size of board:                    4
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        4
+Most generations taken:         10
+Average number of generations:  6.79
+Median of list:                 7.0
+Time for whole algorithm summary:
+Least time taken:             0.015625
+Most time taken:              0.046875
+Average amount of time taken: 0.0334375
+Median time taken:            0.03125
+
+Starting iterations for board size 5
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+o - - - -
+- - - o -
+- o - - -
+- - - - o
+- - o - -
+General info:
+Size of board:                    5
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        4
+Most generations taken:         15
+Average number of generations:  8.39
+Median of list:                 8.0
+Time for whole algorithm summary:
+Least time taken:             0.015625
+Most time taken:              0.078125
+Average amount of time taken: 0.044375
+Median time taken:            0.046875
+
+Starting iterations for board size 6
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - o - - -
+- - - - - o
+- o - - - -
+- - - - o -
+o - - - - -
+- - - o - -
+General info:
+Size of board:                    6
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        20
+Most generations taken:         214
+Average number of generations:  70.41
+Median of list:                 62.5
+Time for whole algorithm summary:
+Least time taken:             0.109375
+Most time taken:              1.140625
+Average amount of time taken: 0.385
+Median time taken:            0.34375
+
+Starting iterations for board size 7
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - - o - - -
+o - - - - - -
+- - o - - - -
+- - - - - o -
+- o - - - - -
+- - - - - - o
+- - - - o - -
+General info:
+Size of board:                    7
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        25
+Most generations taken:         345
+Average number of generations:  96.61
+Median of list:                 86.0
+Time for whole algorithm summary:
+Least time taken:             0.140625
+Most time taken:              2.0
+Average amount of time taken: 0.570625
+Median time taken:            0.5078125
+
+Starting iterations for board size 8
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - - - - o - -
+- - - o - - - -
+- - - - - - o -
+o - - - - - - -
+- - - - - - - o
+- o - - - - - -
+- - - - o - - -
+- - o - - - - -
+General info:
+Size of board:                    8
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        77
+Most generations taken:         1776
+Average number of generations:  530.84
+Median of list:                 388.0
+Time for whole algorithm summary:
+Least time taken:             0.46875
+Most time taken:              11.203125
+Average amount of time taken: 3.3434375
+Median time taken:            2.4296875
+
+Starting iterations for board size 9
+Iteration: 0 - failed to find
+Iteration: 1 - failed to find
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - failed to find
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - failed to find
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - failed to find
+Iteration: 18 - success
+Iteration: 19 - failed to find
+Iteration: 20 - failed to find
+Iteration: 21 - failed to find
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - failed to find
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - failed to find
+Iteration: 37 - failed to find
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - failed to find
+Iteration: 44 - failed to find
+Iteration: 45 - failed to find
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - failed to find
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - failed to find
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - failed to find
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - failed to find
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - failed to find
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - failed to find
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - failed to find
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - failed to find
+Iteration: 95 - failed to find
+Iteration: 96 - failed to find
+Iteration: 97 - failed to find
+Iteration: 98 - success
+Iteration: 99 - success
+- - - - o - - - -
+- - - - - - - - o
+- o - - - - - - -
+- - - o - - - - -
+- - - - - - o - -
+- - o - - - - - -
+- - - - - - - o -
+- - - - - o - - -
+o - - - - - - - -
+General info:
+Size of board:                    9
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 25
+Succeded 75 / 100 times
+
+Generations summary:
+Least generations taken:        87
+Most generations taken:         3999
+Average number of generations:  1686.6933333333334
+Median of list:                 1382
+Time for whole algorithm summary:
+Least time taken:             0.5625
+Most time taken:              27.140625
+Average amount of time taken: 11.382291666666667
+Median time taken:            9.234375
+
+Starting iterations for board size 10
+Iteration: 0 - failed to find
+Iteration: 1 - failed to find
+Iteration: 2 - failed to find
+Iteration: 3 - failed to find
+Iteration: 4 - failed to find
+Iteration: 5 - failed to find
+Iteration: 6 - failed to find
+Iteration: 7 - failed to find
+Iteration: 8 - failed to find
+Iteration: 9 - failed to find
+Iteration: 10 - failed to find
+Iteration: 11 - failed to find
+Iteration: 12 - failed to find
+Iteration: 13 - success
+Iteration: 14 - failed to find
+Iteration: 15 - failed to find
+Iteration: 16 - failed to find
+Iteration: 17 - failed to find
+Iteration: 18 - success
+Iteration: 19 - failed to find
+Iteration: 20 - failed to find
+Iteration: 21 - failed to find
+Iteration: 22 - failed to find
+Iteration: 23 - failed to find
+Iteration: 24 - failed to find
+Iteration: 25 - success
+Iteration: 26 - failed to find
+Iteration: 27 - failed to find
+Iteration: 28 - success
+Iteration: 29 - failed to find
+Iteration: 30 - success
+Iteration: 31 - failed to find
+Iteration: 32 - failed to find
+Iteration: 33 - success
+Iteration: 34 - failed to find
+Iteration: 35 - success
+Iteration: 36 - failed to find
+Iteration: 37 - failed to find
+Iteration: 38 - failed to find
+Iteration: 39 - failed to find
+Iteration: 40 - failed to find
+Iteration: 41 - failed to find
+Iteration: 42 - success
+Iteration: 43 - failed to find
+Iteration: 44 - failed to find
+Iteration: 45 - failed to find
+Iteration: 46 - failed to find
+Iteration: 47 - failed to find
+Iteration: 48 - failed to find
+Iteration: 49 - failed to find
+Iteration: 50 - failed to find
+Iteration: 51 - failed to find
+Iteration: 52 - failed to find
+Iteration: 53 - failed to find
+Iteration: 54 - failed to find
+Iteration: 55 - failed to find
+Iteration: 56 - success
+Iteration: 57 - failed to find
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - failed to find
+Iteration: 61 - failed to find
+Iteration: 62 - failed to find
+Iteration: 63 - failed to find
+Iteration: 64 - failed to find
+Iteration: 65 - failed to find
+Iteration: 66 - failed to find
+Iteration: 67 - failed to find
+Iteration: 68 - failed to find
+Iteration: 69 - failed to find
+Iteration: 70 - failed to find
+Iteration: 71 - failed to find
+Iteration: 72 - success
+Iteration: 73 - failed to find
+Iteration: 74 - failed to find
+Iteration: 75 - success
+Iteration: 76 - failed to find
+Iteration: 77 - failed to find
+Iteration: 78 - failed to find
+Iteration: 79 - failed to find
+Iteration: 80 - failed to find
+Iteration: 81 - success
+Iteration: 82 - failed to find
+Iteration: 83 - failed to find
+Iteration: 84 - failed to find
+Iteration: 85 - failed to find
+Iteration: 86 - failed to find
+Iteration: 87 - failed to find
+Iteration: 88 - failed to find
+Iteration: 89 - failed to find
+Iteration: 90 - failed to find
+Iteration: 91 - failed to find
+Iteration: 92 - failed to find
+Iteration: 93 - failed to find
+Iteration: 94 - failed to find
+Iteration: 95 - failed to find
+Iteration: 96 - failed to find
+Iteration: 97 - failed to find
+Iteration: 98 - failed to find
+Iteration: 99 - failed to find
+General info:
+Size of board:                    10
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 86
+Succeded 14 / 100 times
+
+Generations summary:
+Least generations taken:        740
+Most generations taken:         3445
+Average number of generations:  2213.4285714285716
+Median of list:                 2237.0
+Time for whole algorithm summary:
+Least time taken:             5.296875
+Most time taken:              24.796875
+Average amount of time taken: 15.905133928571429
+Median time taken:            16.1171875
+
+Starting iterations for board size 11
+Iteration: 0 - failed to find
+Iteration: 1 - failed to find
+Iteration: 2 - failed to find
+Iteration: 3 - failed to find
+Iteration: 4 - failed to find
+Iteration: 5 - failed to find
+Iteration: 6 - failed to find
+Iteration: 7 - failed to find
+Iteration: 8 - failed to find
+Iteration: 9 - failed to find
+Iteration: 10 - failed to find
+Iteration: 11 - failed to find
+Iteration: 12 - failed to find
+Iteration: 13 - failed to find
+Iteration: 14 - failed to find
+Iteration: 15 - failed to find
+Iteration: 16 - failed to find
+Iteration: 17 - failed to find
+Iteration: 18 - failed to find
+Iteration: 19 - failed to find
+Iteration: 20 - failed to find
+Iteration: 21 - failed to find
+Iteration: 22 - failed to find
+Iteration: 23 - failed to find
+Iteration: 24 - failed to find
+Iteration: 25 - failed to find
+Iteration: 26 - failed to find
+Iteration: 27 - failed to find
+Iteration: 28 - failed to find
+Iteration: 29 - failed to find
+Iteration: 30 - failed to find
+Iteration: 31 - failed to find
+Iteration: 32 - failed to find
+Iteration: 33 - failed to find
+Iteration: 34 - failed to find
+Iteration: 35 - failed to find
+Iteration: 36 - failed to find
+Iteration: 37 - failed to find
+Iteration: 38 - failed to find
+Iteration: 39 - failed to find
+Iteration: 40 - failed to find
+Iteration: 41 - failed to find
+Iteration: 42 - failed to find
+Iteration: 43 - failed to find
+Iteration: 44 - failed to find
+Iteration: 45 - failed to find
+Iteration: 46 - failed to find
+Iteration: 47 - failed to find
+Iteration: 48 - failed to find
+Iteration: 49 - failed to find
+Iteration: 50 - failed to find
+Iteration: 51 - failed to find
+Iteration: 52 - failed to find
+Iteration: 53 - failed to find
+Iteration: 54 - failed to find
+Iteration: 55 - failed to find
+Iteration: 56 - failed to find
+Iteration: 57 - failed to find
+Iteration: 58 - failed to find
+Iteration: 59 - failed to find
+Iteration: 60 - failed to find
+Iteration: 61 - failed to find
+Iteration: 62 - failed to find
+Iteration: 63 - failed to find
+Iteration: 64 - failed to find
+Iteration: 65 - failed to find
+Iteration: 66 - failed to find
+Iteration: 67 - failed to find
+Iteration: 68 - failed to find
+Iteration: 69 - failed to find
+Iteration: 70 - failed to find
+Iteration: 71 - failed to find
+Iteration: 72 - failed to find
+Iteration: 73 - failed to find
+Iteration: 74 - failed to find
+Iteration: 75 - failed to find
+Iteration: 76 - failed to find
+Iteration: 77 - failed to find
+Iteration: 78 - failed to find
+Iteration: 79 - failed to find
+Iteration: 80 - failed to find
+Iteration: 81 - failed to find
+Iteration: 82 - success
+Iteration: 83 - failed to find
+Iteration: 84 - failed to find
+Iteration: 85 - failed to find
+Iteration: 86 - failed to find
+Iteration: 87 - failed to find
+Iteration: 88 - failed to find
+Iteration: 89 - failed to find
+Iteration: 90 - failed to find
+Iteration: 91 - failed to find
+Iteration: 92 - failed to find
+Iteration: 93 - failed to find
+Iteration: 94 - failed to find
+Iteration: 95 - failed to find
+Iteration: 96 - failed to find
+Iteration: 97 - failed to find
+Iteration: 98 - failed to find
+Iteration: 99 - failed to find
+General info:
+Size of board:                    11
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 99
+Succeded 1 / 100 times
+
+Generations summary:
+Least generations taken:        1503
+Most generations taken:         1503
+Average number of generations:  1503.0
+Median of list:                 1503
+Time for whole algorithm summary:
+Least time taken:             11.546875
+Most time taken:              11.546875
+Average amount of time taken: 11.546875
+Median time taken:            11.546875
+
+Starting iterations for board size 12
+Iteration: 0 - failed to find
+Iteration: 1 - failed to find
+Iteration: 2 - failed to find
+Iteration: 3 - failed to find
+Iteration: 4 - failed to find
+Iteration: 5 - failed to find
+Iteration: 6 - failed to find
+Iteration: 7 - failed to find
+Iteration: 8 - failed to find
+Iteration: 9 - failed to find
+Iteration: 10 - failed to find
+Iteration: 11 - failed to find
+Iteration: 12 - failed to find
+Iteration: 13 - failed to find
+Iteration: 14 - failed to find
+Iteration: 15 - failed to find
+Iteration: 16 - failed to find
+Iteration: 17 - failed to find
+Iteration: 18 - failed to find
+Iteration: 19 - failed to find
+Iteration: 20 - failed to find
+Iteration: 21 - failed to find
+Iteration: 22 - failed to find
+Iteration: 23 - failed to find
+Iteration: 24 - failed to find
+Iteration: 25 - failed to find
+Iteration: 26 - failed to find
+Iteration: 27 - failed to find
+Iteration: 28 - failed to find
+Iteration: 29 - failed to find
+Iteration: 30 - failed to find
+Iteration: 31 - failed to find
+Iteration: 32 - failed to find
+Iteration: 33 - failed to find
+Iteration: 34 - failed to find
+Iteration: 35 - failed to find
+Iteration: 36 - failed to find
+Iteration: 37 - failed to find
+Iteration: 38 - failed to find
+Iteration: 39 - failed to find
+Iteration: 40 - failed to find
+Iteration: 41 - failed to find
+Iteration: 42 - failed to find
+Iteration: 43 - failed to find
+Iteration: 44 - failed to find
+Iteration: 45 - failed to find
+Iteration: 46 - failed to find
+Iteration: 47 - failed to find
+Iteration: 48 - failed to find
+Iteration: 49 - failed to find
+Iteration: 50 - failed to find
+Iteration: 51 - failed to find
+Iteration: 52 - failed to find
+Iteration: 53 - failed to find
+Iteration: 54 - failed to find
+Iteration: 55 - failed to find
+Iteration: 56 - failed to find
+Iteration: 57 - failed to find
+Iteration: 58 - failed to find
+Iteration: 59 - failed to find
+Iteration: 60 - failed to find
+Iteration: 61 - failed to find
+Iteration: 62 - failed to find
+Iteration: 63 - failed to find
+Iteration: 64 - failed to find
+Iteration: 65 - failed to find
+Iteration: 66 - failed to find
+Iteration: 67 - failed to find
+Iteration: 68 - failed to find
+Iteration: 69 - failed to find
+Iteration: 70 - failed to find
+Iteration: 71 - failed to find
+Iteration: 72 - failed to find
+Iteration: 73 - failed to find
+Iteration: 74 - failed to find
+Iteration: 75 - failed to find
+Iteration: 76 - failed to find
+Iteration: 77 - failed to find
+Iteration: 78 - failed to find
+Iteration: 79 - failed to find
+Iteration: 80 - failed to find
+Iteration: 81 - failed to find
+Iteration: 82 - failed to find
+Iteration: 83 - failed to find
+Iteration: 84 - failed to find
+Iteration: 85 - failed to find
+Iteration: 86 - failed to find
+Iteration: 87 - failed to find
+Iteration: 88 - failed to find
+Iteration: 89 - failed to find
+Iteration: 90 - failed to find
+Iteration: 91 - failed to find
+Iteration: 92 - failed to find
+Iteration: 93 - failed to find
+Iteration: 94 - failed to find
+Iteration: 95 - failed to find
+Iteration: 96 - failed to find
+Iteration: 97 - failed to find
+Iteration: 98 - failed to find
+Iteration: 99 - failed to find
+General info:
+Size of board:                    12
+Boards selected each generation:  687
+Children created each generation: 1000
+Mutation rate:                    60
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 100
+Succeded 0 / 100 times

@@ -186,16 +186,16 @@ def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, 
     print(f"Median time taken:            {statistics.median(time_taken)}")
     
     if len(solutions_found) > 0:
-        return (solutions_found, generations_taken, time_taken)
+        return (solutions_found, generations_taken, time_taken, success_counter)
     else:
-        return ([], generations_taken, time_taken)
+        return ([], generations_taken, time_taken, success_counter)
 
-itererations = 5
-board_size_n = 8
+itererations = 100
+board_size_n = 14
 boards_per_generation = 1000
 children_per_generation = 1000
 mutation_rate = 40
-ignore_failed_attempts = False
+ignore_failed_attempts = True
 max_generations = 2000
 
 if __name__ == "__main__":

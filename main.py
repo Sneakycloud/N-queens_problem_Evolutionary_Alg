@@ -174,17 +174,17 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     print(f"Median time taken:            {statistics.median(time_taken)}")
     
     if len(solutions_found) > 0:
-        return (solutions_found, generations_taken, time_taken)
+        return (solutions_found, generations_taken, time_taken, success_counter)
     else:
-        return ([], generations_taken, time_taken)
+        return ([], generations_taken, time_taken, success_counter)
 
-itererations = 50
-board_size_n = 20
+itererations = 500
+board_size_n = 50
 boards_per_generation = 1000
-mutation_rate = 40
+mutation_rate = 60
 max_generations = 2000
 stall_limit = 500
-ignore_failed_attempts = False
+ignore_failed_attempts = True
 #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
 pop_init_algorithm = 1 
     
