@@ -1,12 +1,15 @@
+#Programmed by Eddie Olofsgård, Ebba Brage, Sandra Carlson, Besan Ewir
 import random
 import time
 import itertools
 import statistics
+from contextlib import redirect_stdout
 from collections import Counter
 from pop_init import population_initliziser_random, population_initliziser_heuristic
 from ga_select import fitness, select, tournament_select
-from mutation import mutate
+from mutation import mutate, mutate_extend
 from recombine import recombine
+from calibration import gen_size_tuner, mutation_rate_tuner, mutation_rate_tuner_2
 
 def print_board(board):
     """Converts the ordered representation into a 2D printed board"""
@@ -63,7 +66,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
         #Recombine
         generation.extend(recombine(generation))
         #Printing and testing mutation function
-        generation = mutate(generation, mutation_rate)
+        generation.extend(mutate_extend(generation, mutation_rate))
 
         # Evaluate the NEW generation ONCE
         scored = [(cand, fitness(cand)) for cand in generation]
@@ -92,7 +95,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
     #Returns configuration that solves problem
     return ([], generation_num, stall)
     
-def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm):
+def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm, print_to_file, txt_file_name):
     solutions_found = []
     generations_taken = []
     time_taken = []
@@ -173,21 +176,76 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     print(f"Average amount of time taken: {sum(time_taken) / len(time_taken)}")
     print(f"Median time taken:            {statistics.median(time_taken)}")
     
+    #prints to file
+    if print_to_file:
+        with open(txt_file_name, "a") as f:
+            with redirect_stdout(f):
+                if len(solution_found[0]) > 0:
+                    print_board(solution_found[0])
+                print("General info:")
+                print(f"Size of board:                    {board_size_n}")
+                print(f"Boards selected each generation:  {boards_per_generation}")
+                print(f"Children created each generation: {boards_per_generation}")
+                print(f"Mutation rate:                    {mutation_rate}")
+                print(f"Number of iterations:             {itererations}")
+                print(f"Pop initilization algorithm:      {pop_init_algorithm}")
+                print(f"Max generations:                  {max_generations}")
+                print(f"Times max generation was reached: {exceeded_max_generation_count}")
+                print(f"Stall limit:                      {stall_limit}")
+                print(f"Times stall limit was exceeded:   {exceeded_stall_limit_count}")
+                print(f"Succeded {success_counter} / {itererations} times\n")
+
+                print("Generations summary:")
+                print(f"Least generations taken:\t{min(generations_taken)}")
+                print(f"Most generations taken: \t{max(generations_taken)}")
+                print(f"Average number of generations:\t{sum(generations_taken) / len(generations_taken)}")
+                print(f"Median of list: \t\t{statistics.median(generations_taken)}\n")
+
+                print("Time for whole algorithm summary:")
+                print(f"Least time taken:             {min(time_taken)}")
+                print(f"Most time taken:              {max(time_taken)}")
+                print(f"Average amount of time taken: {sum(time_taken) / len(time_taken)}")
+                print(f"Median time taken:            {statistics.median(time_taken)}")
+        
+        
+        
+    
     if len(solutions_found) > 0:
         return (solutions_found, generations_taken, time_taken, success_counter)
     else:
         return ([], generations_taken, time_taken, success_counter)
-
-itererations = 500
-board_size_n = 50
-boards_per_generation = 1000
-mutation_rate = 60
-max_generations = 2000
-stall_limit = 500
-ignore_failed_attempts = True
-#0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
-pop_init_algorithm = 1 
     
+
+
 if __name__ == "__main__":
+    #Parameters
+    itererations = 500
+    board_size_n = 50
+    boards_per_generation = 768
+    mutation_rate = 50
+    max_generations = 2000
+    #used for calibration to check if two values are close enough to be considered equal if the difference is less than the stop tolerance
+    stop_tolerence = 0.01
+    #if the fitness function does not improve within the stall_limit then the algorithm will halt
+    stall_limit = 500
+    #If the info_n_queen_solver() should count failed attempts at reaching a solution when printing and returning the time and generational values
+    ignore_failed_attempts = False
+    #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
+    pop_init_algorithm = 1 
+    #if to tune the initial variables to call info_n_queen_solver() with
+    tuning = False
+    #if to print to file
+    print_to_file = False
+    txt_file_name = "results.txt"
+
+
+    if tuning:
+        #calibration
+        print("\nBeginning tuning")
+        boards_per_generation   = gen_size_tuner(board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence, itererations, ignore_failed_attempts, n_queen_solver)
+        mutation_rate           = mutation_rate_tuner_2(board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence*10, itererations, ignore_failed_attempts, n_queen_solver)
+        print("Tuning finished")
+    
     #solution = n_queen_solver(4, 100, 100, 0)
-    solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm)
+    open(txt_file_name, "w").close()
+    solution = info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutation_rate, max_generations, stall_limit, ignore_failed_attempts, pop_init_algorithm, print_to_file, txt_file_name)

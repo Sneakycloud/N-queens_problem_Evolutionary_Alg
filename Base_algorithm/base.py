@@ -2,6 +2,7 @@ import random
 import time
 import itertools
 import statistics
+from contextlib import redirect_stdout
 from collections import Counter
 
 #converts the ordered representation into a 2D printed board
@@ -124,7 +125,7 @@ def base_n_queen_solver(n, gen_size, child_gen_size, mutation_rate, max_generati
     #Returns configuration that solves problem
     return (solution, generation_num)
 
-def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations):
+def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations, print_to_file,txt_file_name):
     solutions_found = []
     generations_taken = []
     time_taken = []
@@ -185,6 +186,34 @@ def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, 
     print(f"Average amount of time taken: {sum(time_taken) / len(time_taken)}")
     print(f"Median time taken:            {statistics.median(time_taken)}")
     
+    #prints to file
+    if print_to_file:
+        with open(txt_file_name, "a") as f:
+            with redirect_stdout(f):
+                if len(solution_found[0]) > 0:
+                    print_board(solution_found[0])
+                print("General info:")
+                print(f"Size of board:                    {board_size_n}")
+                print(f"Boards selected each generation:  {boards_per_generation}")
+                print(f"Children created each generation: {children_per_generation}")
+                print(f"Mutation rate:                    {mutation_rate}")
+                print(f"Number of iterations:             {itererations}")
+                print(f"Max generations:                  {max_generations}")
+                print(f"Times max generation was reached: {exceeded_max_generation_count}")
+                print(f"Succeded {success_counter} / {itererations} times\n")
+
+                print("Generations summary:")
+                print(f"Least generations taken:\t{min(generations_taken)}")
+                print(f"Most generations taken: \t{max(generations_taken)}")
+                print(f"Average number of generations:\t{sum(generations_taken) / len(generations_taken)}")
+                print(f"Median of list: \t\t{statistics.median(generations_taken)}")
+
+                print("Time for whole algorithm summary:")
+                print(f"Least time taken:             {min(time_taken)}")
+                print(f"Most time taken:              {max(time_taken)}")
+                print(f"Average amount of time taken: {sum(time_taken) / len(time_taken)}")
+                print(f"Median time taken:            {statistics.median(time_taken)}")
+    
     if len(solutions_found) > 0:
         return (solutions_found, generations_taken, time_taken, success_counter)
     else:
@@ -192,14 +221,19 @@ def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, 
 
 itererations = 100
 board_size_n = 14
-boards_per_generation = 1000
+boards_per_generation = 768
 children_per_generation = 1000
-mutation_rate = 40
+mutation_rate = 20
 ignore_failed_attempts = True
 max_generations = 2000
+#if to print to file
+print_to_file = True
+txt_file_name = "base_results.txt"
+
 
 if __name__ == "__main__":
-    info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations)
+    open(txt_file_name, "w").close()
+    info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations, print_to_file, txt_file_name)
 
 """
 Result of one run:

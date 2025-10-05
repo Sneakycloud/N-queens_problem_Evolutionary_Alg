@@ -1,0 +1,248 @@
+#Parameters
+itererations = 100
+board_size_n = 50
+boards_per_generation = 768
+mutation_rate = 50
+max_generations = 2000
+#used for calibration to check if two values are close enough to be considered equal if the difference is less than the stop tolerance
+stop_tolerence = 0.01
+#if the fitness function does not improve within the stall_limit then the algorithm will halt
+stall_limit = 500
+#If the info_n_queen_solver() should count failed attempts at reaching a solution when printing and returning the time and generational values
+ignore_failed_attempts = False
+#0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
+pop_init_algorithm = 1 
+#if to tune the initial variables to call info_n_queen_solver() with
+tuning = True
+#if to print to file
+print_to_file = False
+txt_file_name = "results.txt"
+
+
+Beginning tuning
+Testing lowest search value of 2
+Testing lowest search value of 4
+Found lowest all successful lowest search value: 4
+Calculating initial board of 518
+boards per generations now testing: 4, 518, 1033
+Time taken 3.873816255479008e+16 2.4648 3.3502
+boards per generations now testing: 261, 518, 775
+Time taken 2.582 2.4648 2.158
+boards per generations now testing: 518, 646, 775
+Time taken 2.4648 2.8467 2.158
+boards per generations now testing: 646, 710, 775
+Time taken 2.8467 2.4261 2.158
+boards per generations now testing: 710, 742, 775
+Time taken 2.4261 2.2845 2.158
+boards per generations now testing: 742, 758, 775
+Time taken 2.2845 3.167 2.158
+boards per generations now testing: 758, 766, 775
+Time taken 3.167 1.89 2.158
+boards per generations now testing: 762, 766, 770
+Time taken 3.1189 1.89 1.8275
+boards per generations now testing: 766, 768, 770
+Time taken 1.89 1.4911 1.8275
+boards per generations now testing: 767, 768, 769
+Time taken 1.7792 1.4911 3.0477
+boards per generations now testing: 767, 768, 768
+Now checking 10:ths mutation rates
+Now checking 0
+Now checking 10
+Now checking 20
+Now checking 30
+Now checking 40
+Now checking 50
+Now checking 60
+Now checking 70
+Now checking 80
+Now checking 90
+Now checking 100
+Fastest 10:ths mutation rate is 50 with an avg time of 8.90234375 s
+Now checking 45
+Now checking 46
+Now checking 47
+Now checking 48
+Now checking 49
+Checked -5 values
+Now checking 51
+Now checking 52
+Now checking 53
+Now checking 54
+Now checking 55
+Checked +5 values
+Fastest mutation rate is 50 with an avg time of 8.90234375 s
+Tuning finished
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - -
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - -
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - -
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - -
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - -
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - -
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o -
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - -
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - -
+General info:
+Size of board:                    50
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             100
+Pop initilization algorithm:      1
+Max generations:                  2000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        0
+Most generations taken:         68
+Average number of generations:  3.16
+Median of list:                 0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.75
+Most time taken:              22.671875
+Average amount of time taken: 1.81390625
+Median time taken:            0.78125

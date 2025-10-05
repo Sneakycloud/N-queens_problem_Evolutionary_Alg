@@ -1,0 +1,2397 @@
+- - o - 
+o - - - 
+- - - o 
+- o - - 
+General info:
+Size of board:                    4
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.015625
+Average amount of time taken: 0.00728125
+Median time taken:            0.0
+- - - - o 
+- o - - - 
+- - - o - 
+o - - - - 
+- - o - - 
+General info:
+Size of board:                    5
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.03125
+Average amount of time taken: 0.01125
+Median time taken:            0.015625
+- - o - - - 
+- - - - - o 
+- o - - - - 
+- - - - o - 
+o - - - - - 
+- - - o - - 
+General info:
+Size of board:                    6
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.03125
+Average amount of time taken: 0.01565625
+Median time taken:            0.015625
+- - - - - - o 
+- - - o - - - 
+o - - - - - - 
+- - - - o - - 
+- o - - - - - 
+- - - - - o - 
+- - o - - - - 
+General info:
+Size of board:                    7
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.015625
+Most time taken:              0.03125
+Average amount of time taken: 0.02015625
+Median time taken:            0.015625
+- - - - - o - - 
+o - - - - - - - 
+- - - - o - - - 
+- o - - - - - - 
+- - - - - - - o 
+- - o - - - - - 
+- - - - - - o - 
+- - - o - - - - 
+General info:
+Size of board:                    8
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.015625
+Most time taken:              0.046875
+Average amount of time taken: 0.02525
+Median time taken:            0.03125
+- - - - o - - - - 
+- - - - - - - - o 
+- - - o - - - - - 
+- - - - - o - - - 
+- - - - - - - o - 
+- o - - - - - - - 
+- - - - - - o - - 
+o - - - - - - - - 
+- - o - - - - - - 
+General info:
+Size of board:                    9
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.015625
+Most time taken:              0.0625
+Average amount of time taken: 0.03534375
+Median time taken:            0.03125
+o - - - - - - - - - 
+- - - - o - - - - - 
+- - - - - - o - - - 
+- o - - - - - - - - 
+- - - - - - - - - o 
+- - - - - - - o - - 
+- - - o - - - - - - 
+- - - - - - - - o - 
+- - o - - - - - - - 
+- - - - - o - - - - 
+General info:
+Size of board:                    10
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.03125
+Most time taken:              0.0625
+Average amount of time taken: 0.04184375
+Median time taken:            0.046875
+- - - - - - - - o - - 
+- - - - - o - - - - - 
+o - - - - - - - - - - 
+- - - - o - - - - - - 
+- - - - - - - - - - o 
+- - - - - - - o - - - 
+- - - o - - - - - - - 
+- - - - - - o - - - - 
+- - o - - - - - - - - 
+- - - - - - - - - o - 
+- o - - - - - - - - - 
+General info:
+Size of board:                    11
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.03125
+Most time taken:              0.0625
+Average amount of time taken: 0.04671875
+Median time taken:            0.046875
+- - - - - - o - - - - - 
+- o - - - - - - - - - - 
+- - - - - - - - - - o - 
+- - - - - - - - o - - - 
+o - - - - - - - - - - - 
+- - - - - - - - - o - - 
+- - - - o - - - - - - - 
+- - o - - - - - - - - - 
+- - - - - - - o - - - - 
+- - - - - - - - - - - o 
+- - - o - - - - - - - - 
+- - - - - o - - - - - - 
+General info:
+Size of board:                    12
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.046875
+Most time taken:              0.078125
+Average amount of time taken: 0.0544375
+Median time taken:            0.046875
+- - - - o - - - - - - - - 
+- - - - - - o - - - - - - 
+- - - - - - - - o - - - - 
+- - - - - - - - - - o - - 
+- - - - - - - - - - - - o 
+o - - - - - - - - - - - - 
+- - - - - o - - - - - - - 
+- o - - - - - - - - - - - 
+- - - - - - - - - o - - - 
+- - - - - - - - - - - o - 
+- - o - - - - - - - - - - 
+- - - - - - - o - - - - - 
+- - - o - - - - - - - - - 
+General info:
+Size of board:                    13
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.046875
+Most time taken:              0.140625
+Average amount of time taken: 0.06346875
+Median time taken:            0.0625
+- - o - - - - - - - - - - - 
+- - - - - - - - - - - o - - 
+- - - - - - - - - o - - - - 
+o - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - 
+- - - - - - - - o - - - - - 
+- - - - - - - - - - - - o - 
+- o - - - - - - - - - - - - 
+- - - - - - o - - - - - - - 
+- - - - - - - - - - - - - o 
+- - - - - - - - - - o - - - 
+- - - - o - - - - - - - - - 
+- - - - - - - o - - - - - - 
+- - - o - - - - - - - - - - 
+General info:
+Size of board:                    14
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0625
+Most time taken:              0.125
+Average amount of time taken: 0.07425
+Median time taken:            0.078125
+- - - - - - - - o - - - - - - 
+- - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - o - 
+- - - - - - - - - - o - - - - 
+- - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - 
+- - - - - - - - - - - o - - - 
+o - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - 
+- o - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - 
+- - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - o 
+- - - - - - - o - - - - - - - 
+- - - - - o - - - - - - - - - 
+General info:
+Size of board:                    15
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0625
+Most time taken:              0.140625
+Average amount of time taken: 0.08584375
+Median time taken:            0.078125
+- - - - - - - - o - - - - - - - 
+o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - 
+- - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o 
+- - - - - - - - - - - o - - - - 
+- - - - - - o - - - - - - - - - 
+- - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - o - - 
+- o - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - o - 
+- - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - 
+- - - - - o - - - - - - - - - - 
+General info:
+Size of board:                    16
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.078125
+Most time taken:              0.109375
+Average amount of time taken: 0.0906875
+Median time taken:            0.09375
+- - - - - o - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - 
+- - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - o - 
+o - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - 
+- - - - - - o - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - 
+- - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - 
+- - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - o - - - 
+- - - - - - - - o - - - - - - - - 
+General info:
+Size of board:                    17
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.09375
+Most time taken:              0.125
+Average amount of time taken: 0.10040625
+Median time taken:            0.09375
+- - - - - - - - - - - - - - o - - - 
+- - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - o - - - - - 
+- - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - 
+- o - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - 
+- - - - - - - o - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - o - - - - 
+- - - - - - - - o - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - 
+General info:
+Size of board:                    18
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.109375
+Most time taken:              0.15625
+Average amount of time taken: 0.112625
+Median time taken:            0.109375
+- - - - - - - - - - - - o - - - - - - 
+- - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - 
+- - - - - - - o - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - o - - - - 
+- o - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - 
+General info:
+Size of board:                    19
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.109375
+Most time taken:              0.15625
+Average amount of time taken: 0.12259375
+Median time taken:            0.125
+- - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - 
+o - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - o - - - 
+- - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - 
+- - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - o - - - - - - - - - - 
+General info:
+Size of board:                    20
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.125
+Most time taken:              0.15625
+Average amount of time taken: 0.13459375
+Median time taken:            0.140625
+- - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - o - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - o 
+- - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - o - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - 
+- - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - 
+- - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    21
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.140625
+Most time taken:              0.1875
+Average amount of time taken: 0.14796875
+Median time taken:            0.140625
+- - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - o - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - o - - - - 
+- - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - 
+- - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - 
+- - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    22
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.140625
+Most time taken:              0.1875
+Average amount of time taken: 0.1608125
+Median time taken:            0.15625
+- o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - o - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - 
+- - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - 
+General info:
+Size of board:                    23
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	10
+Average number of generations:	0.02
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.15625
+Most time taken:              1.015625
+Average amount of time taken: 0.176
+Median time taken:            0.171875
+- - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - 
+o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o 
+- - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    24
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.171875
+Most time taken:              0.203125
+Average amount of time taken: 0.1891875
+Median time taken:            0.1875
+- - - - - - - - - - - o - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - 
+General info:
+Size of board:                    25
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.1875
+Most time taken:              0.21875
+Average amount of time taken: 0.20425
+Median time taken:            0.203125
+- - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - 
+General info:
+Size of board:                    26
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	37
+Average number of generations:	0.08
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.203125
+Most time taken:              3.859375
+Average amount of time taken: 0.22878125
+Median time taken:            0.21875
+- - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - 
+General info:
+Size of board:                    27
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	23
+Average number of generations:	0.046
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.21875
+Most time taken:              2.734375
+Average amount of time taken: 0.241625
+Median time taken:            0.234375
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+General info:
+Size of board:                    28
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	43
+Average number of generations:	0.15
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.234375
+Most time taken:              5.09375
+Average amount of time taken: 0.27065625
+Median time taken:            0.25
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    29
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	1
+Average number of generations:	0.002
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.25
+Most time taken:              0.5
+Average amount of time taken: 0.27178125
+Median time taken:            0.265625
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    30
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	41
+Average number of generations:	0.082
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.28125
+Most time taken:              5.5
+Average amount of time taken: 0.30040625
+Median time taken:            0.296875
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+General info:
+Size of board:                    31
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	34
+Average number of generations:	0.302
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.28125
+Most time taken:              4.96875
+Average amount of time taken: 0.34853125
+Median time taken:            0.3125
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+General info:
+Size of board:                    32
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	293
+Average number of generations:	1.214
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.3125
+Most time taken:              40.765625
+Average amount of time taken: 0.498625
+Median time taken:            0.328125
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+General info:
+Size of board:                    33
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	54
+Average number of generations:	0.174
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.328125
+Most time taken:              8.40625
+Average amount of time taken: 0.37240625
+Median time taken:            0.34375
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+General info:
+Size of board:                    34
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	46
+Average number of generations:	0.27
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.34375
+Most time taken:              7.640625
+Average amount of time taken: 0.41209375
+Median time taken:            0.359375
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+General info:
+Size of board:                    35
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	60
+Average number of generations:	0.374
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.375
+Most time taken:              10.453125
+Average amount of time taken: 0.4523125
+Median time taken:            0.390625
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+General info:
+Size of board:                    36
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	46
+Average number of generations:	0.644
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.390625
+Most time taken:              8.484375
+Average amount of time taken: 0.5260625
+Median time taken:            0.40625
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+General info:
+Size of board:                    37
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	60
+Average number of generations:	0.656
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.390625
+Most time taken:              11.53125
+Average amount of time taken: 0.55503125
+Median time taken:            0.4375
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    38
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	71
+Average number of generations:	0.994
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.421875
+Most time taken:              14.265625
+Average amount of time taken: 0.6508125
+Median time taken:            0.453125
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+General info:
+Size of board:                    39
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	67
+Average number of generations:	0.758
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.453125
+Most time taken:              14.0
+Average amount of time taken: 0.63540625
+Median time taken:            0.484375
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+General info:
+Size of board:                    40
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	48
+Average number of generations:	1.026
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.46875
+Most time taken:              10.8125
+Average amount of time taken: 0.72646875
+Median time taken:            0.5
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    41
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	88
+Average number of generations:	1.558
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.5
+Most time taken:              20.140625
+Average amount of time taken: 0.883375
+Median time taken:            0.53125
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    42
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	66
+Average number of generations:	1.262
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.53125
+Most time taken:              16.03125
+Average amount of time taken: 0.8634375
+Median time taken:            0.5625
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    43
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	90
+Average number of generations:	2.454
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.5625
+Most time taken:              22.734375
+Average amount of time taken: 1.20609375
+Median time taken:            0.578125
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    44
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	79
+Average number of generations:	1.144
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.578125
+Most time taken:              21.359375
+Average amount of time taken: 0.91521875
+Median time taken:            0.609375
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+General info:
+Size of board:                    45
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	132
+Average number of generations:	2.754
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.609375
+Most time taken:              35.859375
+Average amount of time taken: 1.41
+Median time taken:            0.640625
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    46
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	57
+Average number of generations:	3.108
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.609375
+Most time taken:              17.28125
+Average amount of time taken: 1.56040625
+Median time taken:            0.671875
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    47
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	88
+Average number of generations:	2.212
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.65625
+Most time taken:              26.5
+Average amount of time taken: 1.37721875
+Median time taken:            0.6875
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    48
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	81
+Average number of generations:	2.584
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.6875
+Most time taken:              25.84375
+Average amount of time taken: 1.540375
+Median time taken:            0.734375
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+General info:
+Size of board:                    49
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	94
+Average number of generations:	2.882
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.71875
+Most time taken:              30.046875
+Average amount of time taken: 1.6866875
+Median time taken:            0.75
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    50
+Boards selected each generation:  768
+Children created each generation: 768
+Mutation rate:                    50
+Number of iterations:             500
+Pop initilization algorithm:      1
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 500 / 500 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	127
+Average number of generations:	3.908
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.75
+Most time taken:              41.6875
+Average amount of time taken: 2.0776875
+Median time taken:            0.78125
