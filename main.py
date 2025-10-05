@@ -1,4 +1,4 @@
-#Programmed by Eddie Olofsgård, Ebba Brage, Sandra Carlson, Besan Ewir
+#Eddie Olofsgård, Besan Ewir, Sandra Carlsson, Ebba Brage
 import random
 import time
 import itertools
