@@ -1,3 +1,4 @@
+#Eddie Olofsgård, Besan Ewir, Sandra Carlsson, Ebba Brage
 import random
 from pop_init import population_initliziser_random, population_initliziser_heuristic
 from ga_select import fitness, select, tournament_select
