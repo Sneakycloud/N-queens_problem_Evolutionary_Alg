@@ -19,19 +19,32 @@ def select(generation):
     parents = rank[:max(2, len(rank)//2)]
     return parents
 
-def tournament_select(generation, tournament_size=3, parents_count=None):
-    # Default: keep half (at least 2)
-    if parents_count is None:
-        parents_count = max(len(generation)//2,2)
+def tournament_select(scored, tournament_size=3, parents_count=None):
+    """
+    Select parents via tournament using precomputed fitness.
 
-        parents = []
-        for _ in range(parents_count):
-            # Pick random candidates (no repeats within the tournament)
-            candidates = random.sample(generation, min(tournament_size, len(generation)))
-            # Winner = lowest fitness
-            winner = min(candidates, key=fitness)
-            parents.append(winner)
-        return parents
+    Args:
+        scored: list of (candidate, fitness) pairs.
+        tournament_size: competitors per tournament.
+        parents_count: number of parents to return (default: half the population, min 2).
+
+    Returns:
+        List of selected candidates.
+    """
+    # Default: keep half (at least 2)
+    n = len(scored)
+    if parents_count is None:
+        parents_count = max(n// 2, 2)
+
+    parents = []
+    for _ in range(parents_count):
+        # Pick random candidates (no repeats within the tournament)
+        candidate_idxs = random.sample(range(n), min(tournament_size, n))
+        # Winner = lowest fitness
+        winner_idx = min(candidate_idxs, key= lambda i: scored[i][1])
+        # Store only the candidate (genotype), not its fitness
+        parents.append(scored[winner_idx][0])
+    return parents
     
 
 

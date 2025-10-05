@@ -4,14 +4,6 @@ import itertools
 import statistics
 from collections import Counter
 
-itererations = 50
-board_size_n = 8
-boards_per_generation = 1000
-children_per_generation = 1000
-mutation_rate = 40
-ignore_failed_attempts = False
-max_generations = 2000
-
 #converts the ordered representation into a 2D printed board
 def print_board(board):
     for x in range(0,len(board)):
@@ -132,31 +124,42 @@ def base_n_queen_solver(n, gen_size, child_gen_size, mutation_rate, max_generati
     #Returns configuration that solves problem
     return (solution, generation_num)
 
-def info_base_n_queen_solver():
+def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations):
     solutions_found = []
     generations_taken = []
     time_taken = []
+    exceeded_max_generation_count = 0
+    success_counter = 0
+    
     for i in range(itererations):
         start_time = time.process_time()
         solution_found = (base_n_queen_solver(board_size_n, boards_per_generation,children_per_generation, mutation_rate, max_generations))
         end_time = time.process_time()
         
+        #If the function should include runs which failed to find a solution when gathering data about time and generations taken.
         if ignore_failed_attempts:
             if(solution_found[1] < max_generations):
                 solutions_found.append(solution_found[0])
                 generations_taken.append(solution_found[1])
                 time_taken.append(end_time - start_time)
                 print(f"Iteration: {i} - success")
+                success_counter += 1
             else:
                 print(f"Iteration: {i} - failed to find")
+                exceeded_max_generation_count += 1
         else:
-            solutions_found.append(solution_found[0])
+            #only add solution candidate if it actually contains a solution
+            if len(solution_found[0]) > 0:
+                solutions_found.append(solution_found[0])
+                
             generations_taken.append(solution_found[1])
             time_taken.append(end_time - start_time)
             if(solution_found[1] < max_generations):
                 print(f"Iteration: {i} - success")
+                success_counter += 1
             else:
                 print(f"Iteration: {i} - failed to find")
+                exceeded_max_generation_count += 1
         
     if len(solution_found[0]) > 0:
         print_board(solution_found[0])
@@ -166,6 +169,9 @@ def info_base_n_queen_solver():
     print(f"Children created each generation: {children_per_generation}")
     print(f"Mutation rate:                    {mutation_rate}")
     print(f"Number of iterations:             {itererations}")
+    print(f"Max generations:                  {max_generations}")
+    print(f"Times max generation was reached: {exceeded_max_generation_count}")
+    print(f"Succeded {success_counter} / {itererations} times\n")
 
     print("Generations summary:")
     print(f"Least generations taken:\t{min(generations_taken)}")
@@ -178,10 +184,22 @@ def info_base_n_queen_solver():
     print(f"Most time taken:              {max(time_taken)}")
     print(f"Average amount of time taken: {sum(time_taken) / len(time_taken)}")
     print(f"Median time taken:            {statistics.median(time_taken)}")
-    return
+    
+    if len(solutions_found) > 0:
+        return (solutions_found, generations_taken, time_taken, success_counter)
+    else:
+        return ([], generations_taken, time_taken, success_counter)
 
+itererations = 100
+board_size_n = 14
+boards_per_generation = 1000
+children_per_generation = 1000
+mutation_rate = 40
+ignore_failed_attempts = True
+max_generations = 2000
 
-info_base_n_queen_solver()
+if __name__ == "__main__":
+    info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations)
 
 """
 Result of one run:
@@ -196,7 +214,7 @@ Mutation rate:                    40
 Number of iterations:             50
 Generations summary:
 Least generations taken:        166
-Most generations taken:         2000
+Most generations taken:         2000 #this is the maximum allowed, which means a run has failed
 Average number of generations:  620.28
 Median of list:                 593.0
 Time for whole algorithm summary:

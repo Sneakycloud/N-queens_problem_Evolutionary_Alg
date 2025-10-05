@@ -40,6 +40,7 @@
 	% pdfpagemode=FullScreen,
 	% pdfpagemode= UseOutlines % the default if present
 }
+\usepackage{hyphenat}
 % ------------ End of properties of the PDF file ------------ %
 
 
@@ -220,8 +221,35 @@ This section describes the setup of experiments \cite{zobel2014experimentation}:
 \end{itemize}
 }
 
-\lipsum[4]
+\textcolor{black}{The algorithms and the hardware used for the experiment. The experiments were performed on a AMD Ryzen 7 5700X 8-Core Processor. With a clock frequency of 3401 Mhz. The algorithm that was outlined in the algorithm section is implemented in python at \href{https://github.com/Sneakycloud/N-queens\_problem\_Evolutionary\_Alg/tree/main}{github}. The repository also includes a "Base algorithm" folder where a simple evolutionary algorithm is included.}
 
+\textcolor{black}{\newpage The simple algorithm is designed in a less sophisticated manner.}
+\begin{itemize}
+	\item Representation: It uses the same ordered list representation as the main algorithm. However, it does not guarantee that all column indexes are unique throughout the algorithm.
+	\item Population initialization:  Creates a list with values 0 to n-1. Without randomizing order.
+	\item Recombination: Selects a start and end index within the length of the first parent. The selected interval of the first parent is combined the missing indexes from the second parent to create a child.
+	\item Mutation: Randomly adds or subtracts one from a random index as long as the result is within bounds.
+	\item Selection: Randomly picks boards from the old generation until the new generation is filled to the specified limit.
+	\item fitness: In addition to calculating the diagonals, the base algorithm also counts the number of duplicate column indexes and adds it to the resulting sum of conflicts. 
+\end{itemize}
+
+\textcolor{black}{The method of the experiment consists of running each algorithm at different N\-lengths of the board for 100 iterations. The algorithms are tested at the following sizes of N: 4 to 50 for the main algorithm and 4 to 20 for the simplistic base algorithm. The simplistic evolutionary algorithm is only run up until N=12 due to it beginning to consistently fail to finds a solution within the defined parameters and a max generation = 4000.}
+
+\textcolor{black}{Instructions to run the algorithms and parameters. To run the algorithms download the repository from \href{https://github.com/Sneakycloud/N-queens\_problem\_Evolutionary\_Alg/tree/main}{github}. If you desire to get graphs then follow the read.me to install matplotlib and lastly run "Python plot.py" in the command line. plot.py generates graphs over both generations used on average and time taken on average. If desired both the base algorithm and the main algorithm can be run separately by running "main.py" or "base.py". Base.py is contained in the "base\_algorithm" folder. All parameters can also be adjusted at the bottom of their files before the function call. The parameters used for the experiment are the following.}
+\begin{itemize}
+	\item Iterations = 100
+	\item board\_sizes\_n = [x for x in range(4,13)] (for the simplistic algorithm) and board\_sizes\_n = [x for x in range(4,51)] (for the main algorithm)
+	\item boards\_per\_generation = 1000
+	\item children\_per\_generation = 1000
+	\item mutation\_rate = 60
+	\item max\_generations = 4000
+	\item stall\_limit = 500
+	\item ignore\_failed\_attempts = False
+	\item pop\_init\_algorithm = 1
+	\item main\_algorithm = 0 (for the simplistic algorithm) and main\_algorithm = 1 (for the main algorithm)
+\end{itemize}
+
+\textcolor{black}{The measured parameters is the time and generations until the algorithm finds an solution. The method used to measure time is the python function "time.process\_time()" which only accounts for the time the process is active and will not count thread sleep time. For the counting the generations a simple counter which ticks up at the end of each while loop is sufficient.}
 
 \section{Results and Analysis}
 \label{sec:results-analysis}
