@@ -1,0 +1,226 @@
+Parameters:
+    itererations = 100
+    board_size_n = 8
+    boards_per_generation = 768
+    children_per_generation = 1000
+    mutation_rate = 20
+    ignore_failed_attempts = True
+    max_generations = 4000
+    #used for calibration to check if two values are close enough to be considered equal if the difference is less than the stop tolerance
+    stop_tolerence = 0.01
+    #if to tune the initial variables to call info_n_queen_solver() with
+    tuning = True
+    #if to print to file
+    print_to_file = False
+    txt_file_name = "base_results.txt"
+
+
+
+Beginning tuning
+Testing lowest search value of 2
+Testing lowest search value of 4
+Testing lowest search value of 8
+Testing lowest search value of 16
+Testing lowest search value of 32
+Testing lowest search value of 64
+Testing lowest search value of 128
+Testing lowest search value of 256
+Testing lowest search value of 512
+Found lowest all successful lowest search value: 512
+Calculating initial board of 640
+boards per generations now testing: 512, 640, 768
+Time taken 1.3298 0.8641 0.395
+boards per generations now testing: 640, 704, 768
+Time taken 0.8641 0.5889 0.395
+boards per generations now testing: 704, 736, 768
+Time taken 0.5889 0.768 0.395
+boards per generations now testing: 736, 752, 768
+Time taken 0.768 0.5938 0.395
+boards per generations now testing: 752, 760, 768
+Time taken 0.5938 0.6406 0.395
+boards per generations now testing: 760, 764, 768
+Time taken 0.6406 0.5798 0.395
+boards per generations now testing: 764, 766, 768
+Time taken 0.5798 0.3892 0.395
+boards per generations now testing: 765, 766, 767
+Time taken 0.3456 0.3892 0.4867
+boards per generations now testing: 765, 765, 766
+Optimal boards per generations: 765
+Testing lowest search value of 2
+Found lowest all successful lowest search value: 2
+Calculating initial board of 501
+children per generations now testing: 2, 501, 1000
+Time taken 2767011611056432.5 0.4078 0.9352
+children per generations now testing: 251, 501, 750
+Time taken 0.4369 0.4078 0.5375
+children per generations now testing: 376, 501, 625
+Time taken 0.9831 0.4078 0.8303
+children per generations now testing: 438, 501, 563
+Time taken 0.3216 0.4078 0.5847
+children per generations now testing: 438, 469, 501
+Time taken 0.3216 0.777 0.4078
+children per generations now testing: 438, 453, 469
+Time taken 0.3216 0.4098 0.777
+children per generations now testing: 438, 445, 453
+Time taken 0.3216 922337203685478.2 0.4098
+children per generations now testing: 438, 441, 445
+Time taken 0.3216 0.7083 922337203685478.2
+children per generations now testing: 438, 439, 441
+Time taken 0.3216 0.39 0.7083
+children per generations now testing: 438, 438, 439
+Optimal children per generations: 438
+Now checking 10:ths mutation rates
+Now checking 0
+Now checking 10
+Now checking 20
+Now checking 30
+Now checking 40
+Now checking 50
+Now checking 60
+Now checking 70
+Now checking 80
+Now checking 90
+Now checking 100
+Fastest 10:ths mutation rate is 90 with an avg time of 1.1474184782608696 s
+Now checking 85
+Now checking 86
+Now checking 87
+Now checking 88
+Now checking 89
+Checked -5 values
+Now checking 91
+Now checking 92
+Now checking 93
+Now checking 94
+Now checking 95
+Checked +5 values
+Fastest mutation rate is 92 with an avg time of 0.6888020833333334 s
+Tuning finished
+Iteration: 0 - success
+Iteration: 1 - success
+Iteration: 2 - success
+Iteration: 3 - success
+Iteration: 4 - success
+Iteration: 5 - success
+Iteration: 6 - success
+Iteration: 7 - success
+Iteration: 8 - success
+Iteration: 9 - success
+Iteration: 10 - success
+Iteration: 11 - success
+Iteration: 12 - success
+Iteration: 13 - success
+Iteration: 14 - success
+Iteration: 15 - success
+Iteration: 16 - success
+Iteration: 17 - success
+Iteration: 18 - success
+Iteration: 19 - success
+Iteration: 20 - success
+Iteration: 21 - success
+Iteration: 22 - success
+Iteration: 23 - success
+Iteration: 24 - success
+Iteration: 25 - success
+Iteration: 26 - success
+Iteration: 27 - success
+Iteration: 28 - success
+Iteration: 29 - success
+Iteration: 30 - success
+Iteration: 31 - success
+Iteration: 32 - success
+Iteration: 33 - success
+Iteration: 34 - success
+Iteration: 35 - success
+Iteration: 36 - success
+Iteration: 37 - success
+Iteration: 38 - success
+Iteration: 39 - success
+Iteration: 40 - success
+Iteration: 41 - success
+Iteration: 42 - success
+Iteration: 43 - success
+Iteration: 44 - success
+Iteration: 45 - success
+Iteration: 46 - success
+Iteration: 47 - success
+Iteration: 48 - success
+Iteration: 49 - success
+Iteration: 50 - success
+Iteration: 51 - success
+Iteration: 52 - success
+Iteration: 53 - success
+Iteration: 54 - success
+Iteration: 55 - success
+Iteration: 56 - success
+Iteration: 57 - success
+Iteration: 58 - success
+Iteration: 59 - success
+Iteration: 60 - success
+Iteration: 61 - success
+Iteration: 62 - success
+Iteration: 63 - success
+Iteration: 64 - success
+Iteration: 65 - success
+Iteration: 66 - success
+Iteration: 67 - success
+Iteration: 68 - success
+Iteration: 69 - success
+Iteration: 70 - success
+Iteration: 71 - success
+Iteration: 72 - success
+Iteration: 73 - success
+Iteration: 74 - success
+Iteration: 75 - success
+Iteration: 76 - success
+Iteration: 77 - success
+Iteration: 78 - success
+Iteration: 79 - success
+Iteration: 80 - success
+Iteration: 81 - success
+Iteration: 82 - success
+Iteration: 83 - success
+Iteration: 84 - success
+Iteration: 85 - success
+Iteration: 86 - success
+Iteration: 87 - success
+Iteration: 88 - success
+Iteration: 89 - success
+Iteration: 90 - success
+Iteration: 91 - success
+Iteration: 92 - success
+Iteration: 93 - success
+Iteration: 94 - success
+Iteration: 95 - success
+Iteration: 96 - success
+Iteration: 97 - success
+Iteration: 98 - success
+Iteration: 99 - success
+- - - - - - o -
+- - - o - - - -
+- o - - - - - -
+- - - - o - - -
+- - - - - - - o
+o - - - - - - -
+- - o - - - - -
+- - - - - o - -
+General info:
+Size of board:                    8
+Boards selected each generation:  765
+Children created each generation: 438
+Mutation rate:                    92
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:        0
+Most generations taken:         1407
+Average number of generations:  58.91
+Median of list:                 0.0
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              7.421875
+Average amount of time taken: 0.31359375
+Median time taken:            0.0

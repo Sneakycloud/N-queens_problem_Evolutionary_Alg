@@ -4,6 +4,8 @@ import itertools
 import statistics
 from contextlib import redirect_stdout
 from collections import Counter
+if __name__ == "__main__":
+    from base_calibration import gen_size_tuner, child_gen_size_tuner, mutation_rate_tuner
 
 #converts the ordered representation into a 2D printed board
 def print_board(board):
@@ -16,11 +18,13 @@ def print_board(board):
         print("")
 
 def pop_init(n):
-    return [x for x in range(n)]
+    initial_board = [x for x in range(n)]
+    random.shuffle(initial_board)
+    return initial_board
 
 def select(generations, gen_size):
     new_generation = []
-    while len(new_generation) < gen_size or len(generations) == 0:
+    while len(new_generation) < gen_size and not len(generations) == 0:
         new_generation.append(generations.pop(random.randint(0,len(generations)-1)))
     
     return new_generation
@@ -219,19 +223,36 @@ def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, 
     else:
         return ([], generations_taken, time_taken, success_counter)
 
-itererations = 100
-board_size_n = 14
-boards_per_generation = 768
-children_per_generation = 1000
-mutation_rate = 20
-ignore_failed_attempts = True
-max_generations = 2000
-#if to print to file
-print_to_file = True
-txt_file_name = "base_results.txt"
-
 
 if __name__ == "__main__":
+    
+    itererations = 100
+    board_size_n = 8
+    boards_per_generation = 765
+    children_per_generation = 438
+    mutation_rate = 20
+    ignore_failed_attempts = True
+    max_generations = 4000
+    #used for calibration to check if two values are close enough to be considered equal if the difference is less than the stop tolerance
+    stop_tolerence = 0.01
+    #if to tune the initial variables to call info_n_queen_solver() with
+    tuning = False
+    #if to print to file
+    print_to_file = True
+    txt_file_name = "base_results.txt"
+    
+    
+    
+    if tuning:
+        #calibration
+        print("\nBeginning tuning")
+        boards_per_generation   = gen_size_tuner(       board_size_n, boards_per_generation, children_per_generation, mutation_rate, max_generations, stop_tolerence, itererations, base_n_queen_solver)
+        children_per_generation = child_gen_size_tuner( board_size_n, boards_per_generation, children_per_generation, mutation_rate, max_generations, stop_tolerence, itererations, base_n_queen_solver)
+        mutation_rate           = mutation_rate_tuner(board_size_n, boards_per_generation, children_per_generation, mutation_rate, max_generations, stop_tolerence*10, itererations, base_n_queen_solver)
+        print("Tuning finished")
+    
+    
+    
     open(txt_file_name, "w").close()
     info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, children_per_generation, mutation_rate, ignore_failed_attempts, max_generations, print_to_file, txt_file_name)
 

@@ -9,7 +9,7 @@ from pop_init import population_initliziser_random, population_initliziser_heuri
 from ga_select import fitness, select, tournament_select
 from mutation import mutate, mutate_extend
 from recombine import recombine
-from calibration import gen_size_tuner, mutation_rate_tuner, mutation_rate_tuner_2
+from calibration import gen_size_tuner, mutation_rate_tuner
 
 def print_board(board):
     """Converts the ordered representation into a 2D printed board"""
@@ -185,7 +185,7 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
                 print("General info:")
                 print(f"Size of board:                    {board_size_n}")
                 print(f"Boards selected each generation:  {boards_per_generation}")
-                print(f"Children created each generation: {boards_per_generation}")
+                print(f"Children created each generation: {boards_per_generation*2}")
                 print(f"Mutation rate:                    {mutation_rate}")
                 print(f"Number of iterations:             {itererations}")
                 print(f"Pop initilization algorithm:      {pop_init_algorithm}")
@@ -220,7 +220,7 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
 if __name__ == "__main__":
     #Parameters
     itererations = 500
-    board_size_n = 50
+    board_size_n = 20
     boards_per_generation = 768
     mutation_rate = 50
     max_generations = 2000
@@ -233,7 +233,7 @@ if __name__ == "__main__":
     #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
     pop_init_algorithm = 1 
     #if to tune the initial variables to call info_n_queen_solver() with
-    tuning = False
+    tuning = True
     #if to print to file
     print_to_file = False
     txt_file_name = "results.txt"
@@ -242,8 +242,8 @@ if __name__ == "__main__":
     if tuning:
         #calibration
         print("\nBeginning tuning")
-        boards_per_generation   = gen_size_tuner(board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence, itererations, ignore_failed_attempts, n_queen_solver)
-        mutation_rate           = mutation_rate_tuner_2(board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence*10, itererations, ignore_failed_attempts, n_queen_solver)
+        boards_per_generation   = gen_size_tuner(       board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence,    itererations, n_queen_solver)
+        mutation_rate           = mutation_rate_tuner(board_size_n, boards_per_generation,pop_init_algorithm, mutation_rate, max_generations, stall_limit, stop_tolerence*10, itererations, n_queen_solver)
         print("Tuning finished")
     
     #solution = n_queen_solver(4, 100, 100, 0)

@@ -157,6 +157,7 @@ Least time taken:             0.0
 Most time taken:              23.140625
 Average amount of time taken: 4.2509375
 Median time taken:            0.015625
+
 General info:
 Size of board:                    10
 Boards selected each generation:  765
@@ -177,6 +178,8 @@ Least time taken:             0.0
 Most time taken:              25.34375
 Average amount of time taken: 20.06171875
 Median time taken:            25.203125
+
+
 General info:
 Size of board:                    11
 Boards selected each generation:  765
@@ -218,6 +221,7 @@ Most time taken:              40.875
 Average amount of time taken: 29.528125
 Median time taken:            30.734375
 General info:
+
 Size of board:                    13
 Boards selected each generation:  765
 Children created each generation: 438

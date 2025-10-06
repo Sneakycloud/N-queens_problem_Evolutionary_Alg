@@ -5,7 +5,7 @@ o - - -
 General info:
 Size of board:                    4
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -34,7 +34,7 @@ o - - - -
 General info:
 Size of board:                    5
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -64,7 +64,7 @@ o - - - - -
 General info:
 Size of board:                    6
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -95,7 +95,7 @@ o - - - - - -
 General info:
 Size of board:                    7
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -127,7 +127,7 @@ o - - - - - - -
 General info:
 Size of board:                    8
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -160,7 +160,7 @@ o - - - - - - - -
 General info:
 Size of board:                    9
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -194,7 +194,7 @@ o - - - - - - - - -
 General info:
 Size of board:                    10
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -229,7 +229,7 @@ o - - - - - - - - - -
 General info:
 Size of board:                    11
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -265,7 +265,7 @@ o - - - - - - - - - - -
 General info:
 Size of board:                    12
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -302,7 +302,7 @@ o - - - - - - - - - - - -
 General info:
 Size of board:                    13
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -340,7 +340,7 @@ o - - - - - - - - - - - - -
 General info:
 Size of board:                    14
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -379,7 +379,7 @@ o - - - - - - - - - - - - - -
 General info:
 Size of board:                    15
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -419,7 +419,7 @@ o - - - - - - - - - - - - - - -
 General info:
 Size of board:                    16
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -460,7 +460,7 @@ o - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    17
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -502,7 +502,7 @@ o - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    18
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -545,7 +545,7 @@ o - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    19
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -589,7 +589,7 @@ o - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    20
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -634,7 +634,7 @@ o - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    21
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -680,7 +680,7 @@ o - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    22
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -727,7 +727,7 @@ o - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    23
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -775,7 +775,7 @@ o - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    24
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -824,7 +824,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    25
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -874,7 +874,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    26
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -925,7 +925,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    27
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -977,7 +977,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    28
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1030,7 +1030,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    29
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1084,7 +1084,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    30
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1139,7 +1139,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    31
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1195,7 +1195,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    32
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1252,7 +1252,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    33
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1310,7 +1310,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    34
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1369,7 +1369,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    35
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1429,7 +1429,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    36
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1490,7 +1490,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    37
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1552,7 +1552,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    38
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1615,7 +1615,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    39
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1679,7 +1679,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 General info:
 Size of board:                    40
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1744,7 +1744,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    41
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1810,7 +1810,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    42
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1877,7 +1877,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    43
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -1945,7 +1945,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    44
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2014,7 +2014,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    45
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2084,7 +2084,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    46
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2155,7 +2155,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    47
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2227,7 +2227,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    48
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2300,7 +2300,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    49
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1
@@ -2374,7 +2374,7 @@ o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 General info:
 Size of board:                    50
 Boards selected each generation:  768
-Children created each generation: 768
+Children created each generation: 1536
 Mutation rate:                    50
 Number of iterations:             500
 Pop initilization algorithm:      1

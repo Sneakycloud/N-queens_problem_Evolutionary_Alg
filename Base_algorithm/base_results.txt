@@ -1,0 +1,28 @@
+- - - - o - - - 
+- - - - - - o - 
+- o - - - - - - 
+- - - - - o - - 
+- - o - - - - - 
+o - - - - - - - 
+- - - o - - - - 
+- - - - - - - o 
+General info:
+Size of board:                    8
+Boards selected each generation:  765
+Children created each generation: 438
+Mutation rate:                    20
+Number of iterations:             100
+Max generations:                  4000
+Times max generation was reached: 0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	3086
+Average number of generations:	110.53
+Median of list: 		0.0
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              14.421875
+Average amount of time taken: 0.53453125
+Median time taken:            0.0

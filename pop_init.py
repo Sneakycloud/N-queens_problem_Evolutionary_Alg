@@ -3,10 +3,6 @@ import random
 #Takes a 2D-array representing the board and the newly placed queen position and outputs the new constested board 
 def board_update(board, row, coloumn):
     board_length = len(board)
-    #Update row
-    for x in range(board_length):
-        if x != coloumn:
-            board[row][x] += 1
         
     #Update coloumn
     for x in range(board_length):
