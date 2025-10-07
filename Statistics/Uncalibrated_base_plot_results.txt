@@ -4,9 +4,9 @@ o - - -
 - o - - 
 General info:
 Size of board:                    4
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 0
@@ -20,18 +20,18 @@ Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
 Most time taken:              0.015625
-Average amount of time taken: 0.00234375
+Average amount of time taken: 0.00296875
 Median time taken:            0.0
+- - o - - 
+- - - - o 
 - o - - - 
 - - - o - 
 o - - - - 
-- - o - - 
-- - - - o 
 General info:
 Size of board:                    5
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 0
@@ -45,19 +45,19 @@ Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
 Most time taken:              0.015625
-Average amount of time taken: 0.0025
+Average amount of time taken: 0.0034375
 Median time taken:            0.0
-- - - - o - 
-- - o - - - 
-o - - - - - 
-- - - - - o 
-- - - o - - 
 - o - - - - 
+- - - o - - 
+- - - - - o 
+o - - - - - 
+- - o - - - 
+- - - - o - 
 General info:
 Size of board:                    6
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 0
@@ -65,26 +65,26 @@ Succeded 100 / 100 times
 
 Generations summary:
 Least generations taken:	0
-Most generations taken: 	0
-Average number of generations:	0.0
+Most generations taken: 	100
+Average number of generations:	1.77
 Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              0.015625
-Average amount of time taken: 0.003125
+Most time taken:              0.640625
+Average amount of time taken: 0.0146875
 Median time taken:            0.0
+- - - - o - - 
+o - - - - - - 
 - - - o - - - 
 - - - - - - o 
-- - - - o - - 
-- o - - - - - 
-- - - - - o - 
-o - - - - - - 
 - - o - - - - 
+- - - - - o - 
+- o - - - - - 
 General info:
 Size of board:                    7
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 0
@@ -98,21 +98,21 @@ Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
 Most time taken:              0.015625
-Average amount of time taken: 0.0040625
+Average amount of time taken: 0.00453125
 Median time taken:            0.0
-- - o - - - - - 
-- - - - - - - o 
+- - - - o - - - 
+- o - - - - - - 
 - - - o - - - - 
 - - - - - - o - 
-o - - - - - - - 
+- - o - - - - - 
+- - - - - - - o 
 - - - - - o - - 
-- o - - - - - - 
-- - - - o - - - 
+o - - - - - - - 
 General info:
 Size of board:                    8
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 0
@@ -120,128 +120,110 @@ Succeded 100 / 100 times
 
 Generations summary:
 Least generations taken:	0
-Most generations taken: 	871
-Average number of generations:	42.95
+Most generations taken: 	1561
+Average number of generations:	94.84
 Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              4.578125
-Average amount of time taken: 0.23
+Most time taken:              11.328125
+Average amount of time taken: 0.69875
 Median time taken:            0.0
-- - - o - - - - - 
-- - - - - o - - - 
+- - o - - - - - - 
 - - - - - - - o - 
+- - - - - o - - - 
+o - - - - - - - - 
+- - - - - - - - o 
 - o - - - - - - - 
 - - - - o - - - - 
 - - - - - - o - - 
-- - - - - - - - o 
-o - - - - - - - - 
-- - o - - - - - - 
+- - - o - - - - - 
 General info:
 Size of board:                    9
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
-Times max generation was reached: 7
-Succeded 93 / 100 times
+Times max generation was reached: 14
+Succeded 86 / 100 times
 
 Generations summary:
 Least generations taken:	0
 Most generations taken: 	4000
-Average number of generations:	736.11
+Average number of generations:	1014.24
 Median of list: 		0.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              23.140625
-Average amount of time taken: 4.2509375
+Most time taken:              33.59375
+Average amount of time taken: 8.13171875
 Median time taken:            0.015625
+
 General info:
 Size of board:                    10
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
-Times max generation was reached: 74
-Succeded 26 / 100 times
+Times max generation was reached: 73
+Succeded 27 / 100 times
 
 Generations summary:
 Least generations taken:	0
 Most generations taken: 	4000
-Average number of generations:	3180.57
+Average number of generations:	3103.22
 Median of list: 		4000.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              25.34375
-Average amount of time taken: 20.06171875
-Median time taken:            25.203125
+Most time taken:              35.296875
+Average amount of time taken: 26.0378125
+Median time taken:            32.359375
 General info:
 Size of board:                    11
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
-Times max generation was reached: 91
-Succeded 9 / 100 times
+Times max generation was reached: 93
+Succeded 7 / 100 times
 
 Generations summary:
 Least generations taken:	0
 Most generations taken: 	4000
-Average number of generations:	3782.71
+Average number of generations:	3771.98
 Median of list: 		4000.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              27.8125
-Average amount of time taken: 26.19046875
-Median time taken:            27.6875
+Most time taken:              37.21875
+Average amount of time taken: 33.10421875
+Median time taken:            34.984375
 General info:
 Size of board:                    12
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
-Times max generation was reached: 94
-Succeded 6 / 100 times
+Times max generation was reached: 97
+Succeded 3 / 100 times
 
 Generations summary:
 Least generations taken:	0
 Most generations taken: 	4000
-Average number of generations:	3765.97
+Average number of generations:	3880.0
 Median of list: 		4000.0
 Time for whole algorithm summary:
 Least time taken:             0.0
-Most time taken:              40.875
-Average amount of time taken: 29.528125
-Median time taken:            30.734375
+Most time taken:              38.515625
+Average amount of time taken: 33.164375
+Median time taken:            33.6171875
+
 General info:
 Size of board:                    13
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
-Number of iterations:             100
-Max generations:                  4000
-Times max generation was reached: 99
-Succeded 1 / 100 times
-
-Generations summary:
-Least generations taken:	0
-Most generations taken: 	4000
-Average number of generations:	3960.0
-Median of list: 		4000.0
-Time for whole algorithm summary:
-Least time taken:             0.015625
-Most time taken:              37.390625
-Average amount of time taken: 34.77828125
-Median time taken:            35.2578125
-General info:
-Size of board:                    14
-Boards selected each generation:  765
-Children created each generation: 438
-Mutation rate:                    92
+Boards selected each generation:  768
+Children created each generation: 1000
+Mutation rate:                    20
 Number of iterations:             100
 Max generations:                  4000
 Times max generation was reached: 100
@@ -253,7 +235,7 @@ Most generations taken: 	4000
 Average number of generations:	4000.0
 Median of list: 		4000.0
 Time for whole algorithm summary:
-Least time taken:             36.96875
-Most time taken:              40.609375
-Average amount of time taken: 38.84765625
-Median time taken:            39.0546875
+Least time taken:             35.890625
+Most time taken:              37.609375
+Average amount of time taken: 36.62765625
+Median time taken:            36.5625

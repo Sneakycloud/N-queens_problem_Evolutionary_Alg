@@ -1,7 +1,7 @@
 #Parameters
 itererations = 100
 board_size_n = 50
-boards_per_generation = 768
+boards_per_generation = 1033
 mutation_rate = 50
 max_generations = 2000
 #used for calibration to check if two values are close enough to be considered equal if the difference is less than the stop tolerance
