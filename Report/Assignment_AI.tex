@@ -218,34 +218,22 @@
 \textcolor{black}{The simple algorithm is designed in a less sophisticated manner.}
 \begin{itemize}
 	\item Representation: It uses the same ordered list representation as the main algorithm. However, it does not guarantee that all column indexes are unique throughout the algorithm.
-	\item Population initialization:  Creates a list with values 0 to n-1. Without randomizing order.
+	\item Population initialization:  Creates a list with values 0 to n-1 and then shuffles the order.
 	\item Recombination: Selects a start and end index within the length of the first parent. The selected interval of the first parent is combined the missing indexes from the second parent to create a child.
 	\item Mutation: Randomly adds or subtracts one from a random index as long as the result is within bounds.
 	\item Selection: Randomly picks boards from the old generation until the new generation is filled to the specified limit.
 	\item fitness: In addition to calculating the diagonals, the base algorithm also counts the number of duplicate column indexes and adds it to the resulting sum of conflicts. 
 \end{itemize}
 
-\textcolor{black}{The method of the experiment consists of running each algorithm at different N\-lengths of the board for 100 iterations. The algorithms are tested at the following sizes of N: 4 to 50 for the main algorithm and 4 to 20 for the simplistic base algorithm. The simplistic evolutionary algorithm is only run up until N=12 due to it beginning to consistently fail to finds a solution within the defined parameters and a max generation = 4000.}
+\textcolor{black}{The method of the experiment consists of running each algorithm at different N-lengths of the board for at least 100 iterations. The algorithms are tested at the sizes of N from 4 to 50 for the main algorithm and for the simplistic base algorithm. The data gathering function will stop if at any size of n all iterations failed to produce a solution. The algorithms are also calibrated before the experiment phase to find a local minimum for average time taken for a set of parameters.}
 
-\textcolor{black}{Instructions to run the algorithms and parameters. To run the algorithms download the repository from \href{https://github.com/Sneakycloud/N-queens\_problem\_Evolutionary\_Alg/tree/main}{github}. If you desire to get graphs then follow the read.me to install matplotlib and lastly run "Python plot.py" in the command line. plot.py generates graphs over both generations used on average and time taken on average. If desired both the base algorithm and the main algorithm can be run separately by running "main.py" or "base.py". Base.py is contained in the "base\_algorithm" folder. All parameters can also be adjusted at the bottom of their files before the function call. The parameters used for the experiment are the following.}
-\begin{itemize}
-	\item Iterations = 100
-	\item board\_sizes\_n = [x for x in range(4,13)] (for the simplistic algorithm) and board\_sizes\_n = [x for x in range(4,51)] (for the main algorithm)
-	\item boards\_per\_generation = 1000
-	\item children\_per\_generation = 1000
-	\item mutation\_rate = 60
-	\item max\_generations = 4000
-	\item stall\_limit = 500
-	\item ignore\_failed\_attempts = False
-	\item pop\_init\_algorithm = 1
-	\item main\_algorithm = 0 (for the simplistic algorithm) and main\_algorithm = 1 (for the main algorithm)
-\end{itemize}
+\textcolor{black}{Instructions to run the algorithms and parameters. To run the algorithms download the repository from \href{https://github.com/Sneakycloud/N-queens\_problem\_Evolutionary\_Alg/tree/main}{github}. If you desire to get graphs then follow the read.me to install matplotlib and lastly run "Python plot.py" in the command line. plot.py generates graphs over both generations used on average and time taken on average. If desired both the base algorithm and the main algorithm can be run separately by running "main.py" or "base.py". Base.py is contained in the "base\_algorithm" folder. There is a statistics folder which contains a group of data collection runs. For both the main and simple algorithm there are calibrated and non calibrated data collection runs included. The main function was optimized at N=50 with an arbitrary starting values while the simple algorithm was optimized for N=8. The 50 for the main algorithm was chosen due to it being the maximum board size we run to. The simple algorithm is limited to n=8 due to it beginning due to fail the generational requirements at N=9 and bigger.  The exact parameters used for the graphs are included in the statistics folder in "Calibrated\_main\_plot\_results" and "Calibrated\_base\_plot\_results". The tuning parameters are included in "tuning\_main\_results.txt" and "tuning\_base\_results.txt".}
 
-\textcolor{black}{The measured parameters is the time and generations until the algorithm finds an solution. The method used to measure time is the python function "time.process\_time()" which only accounts for the time the process is active and will not count thread sleep time. For the counting the generations a simple counter which ticks up at the end of each while loop is sufficient.}
+\textcolor{black}{The measured parameters are time, generations until the algorithm finds an solution and the success rate. The method used to measure time is the python function "time.process\_time()" which only accounts for the time the process is active and will not count thread sleep time. For the counting the generations a simple counter which ticks up at the end of each while loop is sufficient. The success rate is calculated as \(successes / total\_iterations\) for that size of N.}
 
 \section{Results and Analysis}
 \label{sec:results-analysis}
-\textcolor{black}{As stated in the experimental section the two compared algorithms are our improved evolutionary algorithm and a simplistic base algorithm.  The results of running the algorithms according to the experiments sections are outlined in the figures below.}
+\textcolor{black}{As stated in the experimental section the two compared algorithms are our improved evolutionary algorithm and a simplistic base algorithm.  The results of running the calibrated algorithms according to the experiments sections are outlined in the figures below. Detailed results are available in the statistics folder of the  \href{https://github.com/Sneakycloud/N-queens\_problem\_Evolutionary\_Alg/tree/main}{github repository}. }
 
 \begin{figure}[H]
     \centering
