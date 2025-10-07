@@ -166,8 +166,8 @@ def info_base_n_queen_solver(itererations, board_size_n, boards_per_generation, 
                 print(f"Iteration: {i} - failed to find")
                 exceeded_max_generation_count += 1
         
-    if len(solution_found[0]) > 0:
-        print_board(solution_found[0])
+    if len(solutions_found) > 0:
+        print_board(next(x for x in solutions_found if x != []))
     print("General info:")
     print(f"Size of board:                    {board_size_n}")
     print(f"Boards selected each generation:  {boards_per_generation}")

@@ -1,0 +1,1275 @@
+- o - - 
+- - - o 
+o - - - 
+- - o - 
+General info:
+Size of board:                    4
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.015625
+Average amount of time taken: 0.00125
+Median time taken:            0.0
+- - - o - 
+o - - - - 
+- - o - - 
+- - - - o 
+- o - - - 
+General info:
+Size of board:                    5
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.015625
+Average amount of time taken: 0.00171875
+Median time taken:            0.0
+- o - - - - 
+- - - o - - 
+- - - - - o 
+o - - - - - 
+- - o - - - 
+- - - - o - 
+General info:
+Size of board:                    6
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.015625
+Average amount of time taken: 0.00234375
+Median time taken:            0.0
+- - - o - - - 
+o - - - - - - 
+- - o - - - - 
+- - - - - o - 
+- o - - - - - 
+- - - - - - o 
+- - - - o - - 
+General info:
+Size of board:                    7
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.015625
+Average amount of time taken: 0.0028125
+Median time taken:            0.0
+- - - - o - - - 
+- - - - - - - o 
+- - - o - - - - 
+o - - - - - - - 
+- - o - - - - - 
+- - - - - o - - 
+- o - - - - - - 
+- - - - - - o - 
+General info:
+Size of board:                    8
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	0
+Average number of generations:	0.0
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.03125
+Average amount of time taken: 0.00703125
+Median time taken:            0.0
+- - o - - - - - - 
+- - - - - - - - o 
+- - - - - o - - - 
+- - - - - - - o - 
+- o - - - - - - - 
+- - - o - - - - - 
+o - - - - - - - - 
+- - - - - - o - - 
+- - - - o - - - - 
+General info:
+Size of board:                    9
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	1
+Average number of generations:	0.01
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.046875
+Average amount of time taken: 0.01484375
+Median time taken:            0.015625
+o - - - - - - - - - 
+- - - o - - - - - - 
+- - - - - - o - - - 
+- - - - - - - - - o 
+- - - - - o - - - - 
+- - - - - - - - o - 
+- o - - - - - - - - 
+- - - - o - - - - - 
+- - o - - - - - - - 
+- - - - - - - o - - 
+General info:
+Size of board:                    10
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	3
+Average number of generations:	0.3
+Median of list: 		0.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.09375
+Average amount of time taken: 0.03375
+Median time taken:            0.03125
+- o - - - - - - - - - 
+- - - - - - - - - o - 
+- - - - - o - - - - - 
+o - - - - - - - - - - 
+- - - - o - - - - - - 
+- - - - - - - - - - o 
+- - - - - - - - o - - 
+- - - - - - o - - - - 
+- - - o - - - - - - - 
+- - - - - - - o - - - 
+- - o - - - - - - - - 
+General info:
+Size of board:                    11
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	4
+Average number of generations:	0.89
+Median of list: 		1.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.15625
+Average amount of time taken: 0.05875
+Median time taken:            0.0625
+- - - - - - - - o - - - 
+o - - - - - - - - - - - 
+- - - - - - - - - - - o 
+- - - o - - - - - - - - 
+- - - - - - - - - - o - 
+- - - - - - - o - - - - 
+- - - - o - - - - - - - 
+- - o - - - - - - - - - 
+- - - - - - - - - o - - 
+- - - - - - o - - - - - 
+- o - - - - - - - - - - 
+- - - - - o - - - - - - 
+General info:
+Size of board:                    12
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	7
+Average number of generations:	1.92
+Median of list: 		2.0
+
+Time for whole algorithm summary:
+Least time taken:             0.03125
+Most time taken:              0.265625
+Average amount of time taken: 0.101875
+Median time taken:            0.09375
+- - o - - - - - - - - - - 
+- - - - o - - - - - - - - 
+- - - - - - - o - - - - - 
+- - - - - - - - - - - - o 
+- - - - - - - - - - o - - 
+- - - - - - o - - - - - - 
+- o - - - - - - - - - - - 
+- - - - - - - - - - - o - 
+o - - - - - - - - - - - - 
+- - - - - - - - o - - - - 
+- - - o - - - - - - - - - 
+- - - - - o - - - - - - - 
+- - - - - - - - - o - - - 
+General info:
+Size of board:                    13
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	11
+Average number of generations:	3.31
+Median of list: 		3.0
+
+Time for whole algorithm summary:
+Least time taken:             0.0
+Most time taken:              0.46875
+Average amount of time taken: 0.16578125
+Median time taken:            0.15625
+- - - - - - o - - - - - - - 
+- - - - - - - - - - o - - - 
+o - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - 
+- - - - - - - - - o - - - - 
+- - - - o - - - - - - - - - 
+- o - - - - - - - - - - - - 
+- - - - - - - - o - - - - - 
+- - - - - - - - - - - o - - 
+- - - - - - - - - - - - - o 
+- - o - - - - - - - - - - - 
+- - - - - - - o - - - - - - 
+- - - - - - - - - - - - o - 
+- - - o - - - - - - - - - - 
+General info:
+Size of board:                    14
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	13
+Average number of generations:	5.71
+Median of list: 		6.0
+
+Time for whole algorithm summary:
+Least time taken:             0.046875
+Most time taken:              0.59375
+Average amount of time taken: 0.28515625
+Median time taken:            0.28125
+- - - - - - - - o - - - - - - 
+- - - - - o - - - - - - - - - 
+- - o - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - o 
+- - - - - - o - - - - - - - - 
+- - - - o - - - - - - - - - - 
+o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - 
+- - - - - - - - - - - o - - - 
+- - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - 
+- - - - - - - - - - - - o - - 
+- - - - - - - - - o - - - - - 
+General info:
+Size of board:                    15
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	1
+Most generations taken: 	22
+Average number of generations:	7.9
+Median of list: 		8.0
+
+Time for whole algorithm summary:
+Least time taken:             0.09375
+Most time taken:              1.40625
+Average amount of time taken: 0.480625
+Median time taken:            0.4375
+- - - - - - - - - - o - - - - - 
+- - - - - - - - o - - - - - - - 
+- - - o - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - 
+- - - - - - - o - - - - - - - - 
+- - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - o - 
+o - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - o 
+- - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - 
+- o - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - o - - 
+General info:
+Size of board:                    16
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	1
+Most generations taken: 	23
+Average number of generations:	10.67
+Median of list: 		11.0
+
+Time for whole algorithm summary:
+Least time taken:             0.125
+Most time taken:              1.5
+Average amount of time taken: 0.73953125
+Median time taken:            0.734375
+- - - o - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - 
+- - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - 
+- o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - o - - - 
+- - - - - o - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - 
+- - - - o - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - o - - 
+- - - - - - - - - o - - - - - - - 
+- - - - - - o - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - 
+General info:
+Size of board:                    17
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	0
+Most generations taken: 	47
+Average number of generations:	18.08
+Median of list: 		17.0
+
+Time for whole algorithm summary:
+Least time taken:             0.078125
+Most time taken:              2.953125
+Average amount of time taken: 1.17828125
+Median time taken:            1.15625
+o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - 
+- - - - - - - - o - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - o 
+- o - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - 
+- - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - o - - - - 
+- - - o - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - 
+General info:
+Size of board:                    18
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	4
+Most generations taken: 	46
+Average number of generations:	22.96
+Median of list: 		22.5
+
+Time for whole algorithm summary:
+Least time taken:             0.53125
+Most time taken:              3.53125
+Average amount of time taken: 1.755
+Median time taken:            1.734375
+- - - - - - - - - - o - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - o 
+o - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - 
+- - - - - o - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - o - 
+- - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - 
+- - - - o - - - - - - - - - - - - - - 
+General info:
+Size of board:                    19
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	7
+Most generations taken: 	49
+Average number of generations:	24.37
+Median of list: 		25.0
+
+Time for whole algorithm summary:
+Least time taken:             0.59375
+Most time taken:              3.78125
+Average amount of time taken: 1.9034375
+Median time taken:            1.984375
+- - - - - - - - - - - - - - o - - - - - 
+- - - - - - - o - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o 
+- o - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - o - - - - - - - - - - 
+General info:
+Size of board:                    20
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	9
+Most generations taken: 	51
+Average number of generations:	29.69
+Median of list: 		29.5
+
+Time for whole algorithm summary:
+Least time taken:             0.8125
+Most time taken:              4.21875
+Average amount of time taken: 2.49640625
+Median time taken:            2.46875
+- - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - 
+o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - o - - - 
+- - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - o - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    21
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	9
+Most generations taken: 	62
+Average number of generations:	31.24
+Median of list: 		31.0
+
+Time for whole algorithm summary:
+Least time taken:             0.90625
+Most time taken:              5.390625
+Average amount of time taken: 2.806875
+Median time taken:            2.78125
+- - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - o - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - o - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - o - - - - - - - - - - - - - - 
+General info:
+Size of board:                    22
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	11
+Most generations taken: 	60
+Average number of generations:	35.4
+Median of list: 		35.0
+
+Time for whole algorithm summary:
+Least time taken:             1.140625
+Most time taken:              5.8125
+Average amount of time taken: 3.44671875
+Median time taken:            3.4453125
+- - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - 
+- - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - o - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - 
+General info:
+Size of board:                    23
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	4
+Most generations taken: 	61
+Average number of generations:	33.72
+Median of list: 		32.0
+
+Time for whole algorithm summary:
+Least time taken:             0.53125
+Most time taken:              6.40625
+Average amount of time taken: 3.475
+Median time taken:            3.3125
+- - - - - - - - o - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    24
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	16
+Most generations taken: 	78
+Average number of generations:	36.9
+Median of list: 		35.0
+
+Time for whole algorithm summary:
+Least time taken:             1.90625
+Most time taken:              8.203125
+Average amount of time taken: 4.0759375
+Median time taken:            3.890625
+- - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    25
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	15
+Most generations taken: 	90
+Average number of generations:	40.83
+Median of list: 		38.0
+
+Time for whole algorithm summary:
+Least time taken:             1.921875
+Most time taken:              10.65625
+Average amount of time taken: 4.7640625
+Median time taken:            4.5078125
+- - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    26
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	19
+Most generations taken: 	76
+Average number of generations:	40.95
+Median of list: 		40.0
+
+Time for whole algorithm summary:
+Least time taken:             2.546875
+Most time taken:              9.4375
+Average amount of time taken: 5.11375
+Median time taken:            5.03125
+- - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    27
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	20
+Most generations taken: 	82
+Average number of generations:	40.23
+Median of list: 		38.5
+
+Time for whole algorithm summary:
+Least time taken:             2.859375
+Most time taken:              10.890625
+Average amount of time taken: 5.46015625
+Median time taken:            5.2734375
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+General info:
+Size of board:                    28
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	26
+Most generations taken: 	109
+Average number of generations:	44.85
+Median of list: 		43.0
+
+Time for whole algorithm summary:
+Least time taken:             3.703125
+Most time taken:              14.8125
+Average amount of time taken: 6.35578125
+Median time taken:            6.0625
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    29
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	26
+Most generations taken: 	82
+Average number of generations:	46.36
+Median of list: 		45.0
+
+Time for whole algorithm summary:
+Least time taken:             4.0
+Most time taken:              12.5
+Average amount of time taken: 7.07109375
+Median time taken:            6.921875
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    30
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	26
+Most generations taken: 	86
+Average number of generations:	45.8
+Median of list: 		44.5
+
+Time for whole algorithm summary:
+Least time taken:             4.21875
+Most time taken:              13.921875
+Average amount of time taken: 7.4059375
+Median time taken:            7.203125
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    31
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	23
+Most generations taken: 	88
+Average number of generations:	45.4
+Median of list: 		45.0
+
+Time for whole algorithm summary:
+Least time taken:             4.0
+Most time taken:              14.640625
+Average amount of time taken: 7.7684375
+Median time taken:            7.703125
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    32
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	26
+Most generations taken: 	96
+Average number of generations:	47.66
+Median of list: 		47.0
+
+Time for whole algorithm summary:
+Least time taken:             4.734375
+Most time taken:              16.953125
+Average amount of time taken: 8.64609375
+Median time taken:            8.5546875
+- - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - 
+- - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - 
+- - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - 
+- - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - 
+- - - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - - 
+- - - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - 
+- - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - o - - - 
+- - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - o 
+- - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - 
+- - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - o - - - - - - - 
+- - - - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - o - - - - - - - - - - - 
+- - - - - - - - - - o - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - o - - - - - - - - - - - - - - - - - - - 
+General info:
+Size of board:                    33
+Boards selected each generation:  768
+Children created each generation: 1536
+Mutation rate:                    92
+Number of iterations:             100
+Pop initilization algorithm:      0
+Max generations:                  4000
+Times max generation was reached: 0
+Stall limit:                      500
+Times stall limit was exceeded:   0
+Succeded 100 / 100 times
+
+Generations summary:
+Least generations taken:	29
+Most generations taken: 	76
+Average number of generations:	48.45
+Median of list: 		46.0
+
+Time for whole algorithm summary:
+Least time taken:             5.703125
+Most time taken:              14.71875
+Average amount of time taken: 9.3384375
+Median time taken:            9.0234375

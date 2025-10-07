@@ -76,24 +76,24 @@ plt.show()
 
 if __name__ == "__main__":
     #Parameters to adjust for plot function
-    itererations = 100
+    itererations = 5
 
     #board_sizes_n = [8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
-    board_sizes_n = [x for x in range(4,51)] #[8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+    board_sizes_n = [x for x in range(8,11)] #[8, 10, 15, 20, 25, 30, 35, 40, 45, 50]
     #board_sizes_n.extend([35,40,45,50])
 
     boards_per_generation = 768
     children_per_generation = 1000
-    mutation_rate = 20
+    mutation_rate = 92
     max_generations = 4000
     stall_limit = 500
     ignore_failed_attempts = False
-    #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
-    pop_init_algorithm = 1 
     #0 makes the algorithm into the simplistic base evolutionary algorithm, while 1 makes the algorithm into the improved version
     main_algorithm = 0
+    #Only for main algorithm: 0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
+    pop_init_algorithm = 0 
     #if to print to file
-    print_to_file = True
+    print_to_file = False
     txt_file_name = "plot_results.txt"
         
     #Runs the plot function
