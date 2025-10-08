@@ -5,7 +5,7 @@ import itertools
 import statistics
 from contextlib import redirect_stdout
 from collections import Counter
-from pop_init import population_initliziser_random, population_initliziser_heuristic
+from pop_init import population_initializer_random, population_initializer_heuristic
 from ga_select import fitness, tournament_select
 from mutation import mutate_extend
 from recombine import recombine
@@ -36,9 +36,9 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
     # 1)  Population initilize
     generation = []
     if population_init_algorithm == 0:
-        generation = [population_initliziser_random(n) for x in range(gen_size)]
+        generation = [population_initializer_random(n) for x in range(gen_size)]
     elif population_init_algorithm == 1:
-        generation = [population_initliziser_heuristic(n) for x in range(gen_size)]
+        generation = [population_initializer_heuristic(n) for x in range(gen_size)]
     else:
         raise ValueError("The n-queens_solver function has recived invalid population init algorithm number as argument")
 

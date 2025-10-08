@@ -36,7 +36,7 @@ def board_update(board, row, coloumn):
     return board
 
 
-def population_initliziser_heuristic(n):
+def population_initializer_heuristic(n):
     """
         Takes a n-size board and generates a initial state by choosing randomly among the least contested squares. 
         If they are not available it will go to the next best squares
@@ -80,7 +80,7 @@ def population_initliziser_heuristic(n):
         
     return resulting_configuration
 
-def population_initliziser_random(n):
+def population_initializer_random(n):
     """Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in"""
     #List of available positions
     Available_coloumn_positions = [x for x in range(0,n)]
