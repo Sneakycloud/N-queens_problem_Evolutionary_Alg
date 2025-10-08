@@ -4,7 +4,6 @@ def recombine(gen):
     """Devide and recombine boards"""
     gen2 = []
     size = len(gen[0])
-    r = random.randint(0, size - 1)
 
     # Combine with next board
     for i in range(0, len(gen)):

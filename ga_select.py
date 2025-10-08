@@ -1,7 +1,7 @@
 import random
 
-## Count diagonal conflicts only (rows/cols are unique by representation)
 def fitness(board): 
+    """Count diagonal conflicts only (rows/cols are unique by representation)"""
     conflicts = 0
     n = len(board)
     for i in range(n):

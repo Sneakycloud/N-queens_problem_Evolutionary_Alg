@@ -1,8 +1,9 @@
 import time
 import sys
 
-#gets the average time to solve 
+
 def avg_time_n_queens_solver(board_size_n, boards_per_generation,pop_init_alg, mutation_rate, max_generations, stall_limit, itererations, ignore_0_gen, n_queen_solver):
+    """gets the average time to solve"""
     time_taken = []
     for i in range(itererations):
         start_time = time.process_time()
@@ -27,8 +28,8 @@ def avg_time_n_queens_solver(board_size_n, boards_per_generation,pop_init_alg, m
         #represents failing to find a single solution
         return sys.maxsize
 
-#finds the most optimal value for gen_size assuming all other variables are static
 def gen_size_tuner(board_size_n, boards_per_generation,pop_init_alg, mutation_rate, max_generations, stall_limit,stop_tolerence,itererations, n_queen_solver):
+    """finds the most optimal value for gen_size assuming all other variables are static"""
     last_calibrated_gen_size = max_generations
     last_low_search_value = max_generations
     last_high_search_value = 2

@@ -6,8 +6,8 @@ import statistics
 from contextlib import redirect_stdout
 from collections import Counter
 from pop_init import population_initliziser_random, population_initliziser_heuristic
-from ga_select import fitness, select, tournament_select
-from mutation import mutate, mutate_extend
+from ga_select import fitness, tournament_select
+from mutation import mutate_extend
 from recombine import recombine
 from calibration import gen_size_tuner, mutation_rate_tuner
 
@@ -33,7 +33,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
     # 0) variable init
     generation_num = 0
     
-    # 1) Initilize population
+    # 1)  Population initilize
     generation = []
     if population_init_algorithm == 0:
         generation = [population_initliziser_random(n) for x in range(gen_size)]
@@ -52,7 +52,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
             return (board, 0, 0)
         
     # Best so far from the start generation  
-    best_board, best_fitness = min(scored, key=lambda t: t[1])
+    best_fitness = min(scored, key=lambda t: t[1])[1]
 
     # 3) Stagnation tracking:
     # If fitness does not improve for many generations, we stop.
@@ -72,7 +72,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
         scored = [(cand, fitness(cand)) for cand in generation]
 
         # Current best in this generation
-        cur_best_board, cur_best_fitness = min(scored, key=lambda t: t[1]) 
+        cur_best_board, cur_best_fitness = min(scored, key=lambda t: t[1])
 
         # Early stop: perfect solution found
         if cur_best_fitness == 0:
@@ -80,7 +80,6 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
         
         # Update "best so far" and handle stagnation counter
         if cur_best_fitness < best_fitness:
-            best_board = cur_best_board
             best_fitness = cur_best_fitness
             stall = 0
         else:

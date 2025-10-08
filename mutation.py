@@ -1,7 +1,7 @@
 import random
 
-# Mutates the generation by swapping two random positions
 def mutate(generation, mutation_rate):
+    """Mutates the generation by swapping two random positions"""
     # Loop through each individual in the generation
     for i in range(len(generation)):
         # Decide whether to mutate this individual
@@ -14,8 +14,8 @@ def mutate(generation, mutation_rate):
     # Return the mutated generation
     return generation
 
-# Mutates the generation by swapping two random positions
 def mutate_extend(generation, mutation_rate):
+    """Mutates the generation by swapping two random positions"""
     mutated_boards = []
     
     # Loop through each individual in the generation

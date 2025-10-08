@@ -1,7 +1,7 @@
 import random
 
-#Takes a 2D-array representing the board and the newly placed queen position and outputs the new constested board 
 def board_update(board, row, coloumn):
+    """Takes a 2D-array representing the board and the newly placed queen position and outputs the new constested board """
     board_length = len(board)
         
     #Update coloumn
@@ -35,8 +35,12 @@ def board_update(board, row, coloumn):
         
     return board
 
-#Takes a n-size board and generates a initial state by choosing randomly among the least contested squares. If they are not available it will go to the next best squares
+
 def population_initliziser_heuristic(n):
+    """
+        Takes a n-size board and generates a initial state by choosing randomly among the least contested squares. 
+        If they are not available it will go to the next best squares
+    """
     #List of available positions
     Available_coloumn_positions = [x for x in range(0,n)]
     resulting_configuration = []
@@ -76,8 +80,8 @@ def population_initliziser_heuristic(n):
         
     return resulting_configuration
 
-#Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in
 def population_initliziser_random(n):
+    """Takes a n-size board and generates a initial state by choosing a random coloumn each row that has not yet been placed in"""
     #List of available positions
     Available_coloumn_positions = [x for x in range(0,n)]
 
