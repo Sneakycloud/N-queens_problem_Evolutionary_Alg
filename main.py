@@ -85,7 +85,7 @@ def n_queen_solver(n,gen_size,mutation_rate,max_generations, stall_limit,populat
         else:
             stall += 1
             if stall >= stall_limit:
-                #return (best_board, generation_num, stall)
+                #return (empty list, generation_num, stall)
                 return ([], generation_num, stall)
             
         #Increases the generation counter
