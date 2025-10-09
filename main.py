@@ -153,7 +153,7 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
     print("General info:")
     print(f"Size of board:                    {board_size_n}")
     print(f"Boards selected each generation:  {boards_per_generation}")
-    print(f"Children created each generation: {boards_per_generation}")
+    print(f"Children created each generation: {boards_per_generation*2}")
     print(f"Mutation rate:                    {mutation_rate}")
     print(f"Number of iterations:             {itererations}")
     print(f"Pop initilization algorithm:      {pop_init_algorithm}")
