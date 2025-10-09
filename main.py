@@ -218,8 +218,8 @@ def info_n_queen_solver(itererations, board_size_n, boards_per_generation, mutat
 
 if __name__ == "__main__":
     #Parameters
-    itererations = 500
-    board_size_n = 20
+    itererations = 100
+    board_size_n = 50
     boards_per_generation = 768
     mutation_rate = 50
     max_generations = 2000
@@ -232,9 +232,9 @@ if __name__ == "__main__":
     #0 makes the solver use a shuffled board from 0 to n-1, while a 1 makes the solver use a heuristic function to generate the initial boards
     pop_init_algorithm = 1 
     #if to tune the initial variables to call info_n_queen_solver() with
-    tuning = True
+    tuning = False
     #if to print to file
-    print_to_file = False
+    print_to_file = True
     txt_file_name = "results.txt"
 
 
